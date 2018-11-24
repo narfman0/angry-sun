@@ -5,7 +5,7 @@ date:   2018-11-14 17:44:50 -0700
 categories: jekyll update
 ---
 
-(Copied from https://docs.google.com/document/d/1Sq8C-vA00iixrmWg2_iohQxmnGCAlI2_Na7fGt-5SQA/edit)
+(Copied from [src](https://docs.google.com/document/d/1Sq8C-vA00iixrmWg2_iohQxmnGCAlI2_Na7fGt-5SQA/edit))
 
 I've noticed that people who want to learn warpless have several resources to learn strats for all the levels, but nothing to learn the overworld route connecting all those levels. The route can appear somewhat byzantine to a lot of beginners, so this doc is written to explain the choices made in the route most SMB3 runners use for warpless.
 
@@ -48,7 +48,7 @@ The Route
 
 ### World 1
 
-![SMB3-Level1 labeled.png](/assets/worlds/SMB3-Level1_labeled.png)
+![SMB3-Level1 labeled.png]({{ site.baseurl }}/assets/worlds/SMB3-Level1_labeled.png)
 
 C - star
 
@@ -60,7 +60,7 @@ After beating W1, the princess gives you a P-wing.
 
 ### World 2
 
-![SMB3-Level2 labeled.png](/assets/worlds/SMB3-Level2_labeled.png)
+![SMB3-Level2 labeled.png]({{ site.baseurl }}/assets/worlds/SMB3-Level2_labeled.png)
 
 C - music box\
 E - hammer
@@ -83,7 +83,7 @@ After beating W2, the princess gives you a cloud.
 
 ### World 3
 
-![SMB3-Level3 labeled.png](/assets/worlds/SMB3-Level3_labeled.png)
+![SMB3-Level3 labeled.png]({{ site.baseurl }}/assets/worlds/SMB3-Level3_labeled.png)
 
 C - hammer\
 F - star
@@ -100,7 +100,7 @@ After beating W3, the princess gives you a music box.
 
 ### World 4
 
-![SMB3-Level4 labeled.png](/assets/worlds/SMB3-Level4_labeled.png)
+![SMB3-Level4 labeled.png]({{ site.baseurl }}/assets/worlds/SMB3-Level4_labeled.png)
 
 E - cloud\
 G - star\
@@ -124,7 +124,7 @@ After beating W4, the princess gives you a P-wing.
 
 ### World 5
 
-![SMB3-Level5 labeled.png](/assets/worlds/SMB3-Level5_labeled.png)
+![SMB3-Level5 labeled.png]({{ site.baseurl }}/assets/worlds/SMB3-Level5_labeled.png)
 
 C - star\
 D - P-wing\
@@ -144,7 +144,7 @@ After beating W5, the princess gives you a cloud. �
 
 ### World 6
 
-![SMB3-Level6 labeled.png](/assets/worlds/SMB3-Level6_labeled.png)
+![SMB3-Level6 labeled.png]({{ site.baseurl }}/assets/worlds/SMB3-Level6_labeled.png)
 
 C - hammer\
 F - cloud\
@@ -168,7 +168,7 @@ After beating W6, the princess gives you a P-wing.
 
 ### World 7
 
-![SMB3-Level7 labeled.png](/assets/worlds/SMB3-Level7_labeled.png)
+![SMB3-Level7 labeled.png]({{ site.baseurl }}/assets/worlds/SMB3-Level7_labeled.png)
 
 Level order: 7-1 → pipe → 7-2 → pipe → 7-3 → cloud past 7-4 → pipe → P-wing through 7-F1 → P-wing over 7-6 → pipe → 7-8 → 7-9 or 7-F2 (cloud one, play the other) → music box past 7-Piranha2 → Castle 7
 
@@ -184,7 +184,7 @@ After beating W7, Bowser pulls a switcheroo and steals whatever the princess tri
 
 ### World 8
 
-![SMB3-Level8 labeled.png](/assets/worlds/SMB3-Level8_labeled.png)
+![SMB3-Level8 labeled.png]({{ site.baseurl }}/assets/worlds/SMB3-Level8_labeled.png)
 
 Level order: Tanks → Navy → pipe → Hands → Air Force → pipe → 8-1 → 8-2 → 8-F → left pipe → Super Tanks → Bowser's Castle
 
