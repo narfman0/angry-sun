@@ -4,8 +4,8 @@ description: >-
   Angry Sun aggregates Super Mario Brothers 3 resources. It contains
   information about strategy, videos, tips, and rom changes, mostly
   focused on RTA.
-baseurl: ""
-url: ""
+baseurl: "/angry-sun"
+url: "https://narfman0.github.io"
 
 markdown: kramdown
 theme: minima
