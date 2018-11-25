@@ -11,3 +11,6 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+header_pages:
+  - pages/warpless-resources.md
+  - pages/links.md

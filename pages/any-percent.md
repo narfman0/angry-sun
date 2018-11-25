@@ -18,3 +18,5 @@ Text guide for advanced setup can be found [here]({{ site.baseurl }}{% link page
 Any% guide (Kirua) [link](https://www.twitch.tv/videos/172716898)
 
 Any% tutorial by Poo (GrandPOOBear) [link](https://youtu.be/Y4X6nASGPHU)
+
+Any% guide (Producks) [link](https://drive.google.com/file/d/0B6EA540L0EBwRFUzN1Y2VTc2SWM/view)

@@ -147,7 +147,3 @@ Refresh and or edit link will change the card to setup for a new one.
 # All forts route guide (Cujo) [src](https://docs.google.com/document/d/1n16AFOPGwFfTmSnErjU1dRpM2M8KhprRqBztqyvjVek/edit#heading=h.qq45edsb0zox)
 
 # Dotsarecool practice rom (dotsarecool) [link](http://www.dotsarecool.com/twitch/smb3pspeed.html)
-
-# Any% guide (Kirua) [link](https://www.twitch.tv/videos/172716898)
-
-# Any% guide (Producks) [link](https://drive.google.com/file/d/0B6EA540L0EBwRFUzN1Y2VTc2SWM/view)
