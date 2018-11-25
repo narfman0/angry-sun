@@ -1,4 +1,4 @@
-build: init
+build:
 	bundle exec jekyll serve
 
 init:

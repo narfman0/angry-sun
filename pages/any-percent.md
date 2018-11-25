@@ -13,7 +13,7 @@ This guide for shell placement in the easy setup created by 10ooki:
 
 ![10ooki placement shot]({{ site.baseurl }}/assets/any_percent/shell_location.png)
 
-Text guide for advanced setup can be found [here]({{ site.baseurl }}{% post_url 2018-11-14-any-percent-text %}).
+Text guide for advanced setup can be found [here]({{ site.baseurl }}{% link pages/any-percent-text.md %}).
 
 Any% guide (Kirua) [link](https://www.twitch.tv/videos/172716898)
 

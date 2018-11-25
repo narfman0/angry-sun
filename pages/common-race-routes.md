@@ -40,7 +40,7 @@ In a **Warpless**, racers must complete the game as fast as possible without usi
 
 Timing ends on entering the final door after defeating Bowser.
 
-### [Resources]({{ site.baseurl }}{% post_url 2018-11-14-warpless-resources %})
+### [Resources]({{ site.baseurl }}{% link pages/warpless-resources.md %})
 
 Any% No Wrong Warp
 ------------------
@@ -69,4 +69,4 @@ This basically means executing the wrong warp glitch in 7-1 to go directly to th
 
 Timing ends on Mario becoming visible in the Princess's chamber.
 
-### [Resources]({{ site.baseurl }}{% post_url 2018-11-14-any-percent %})
+### [Resources]({{ site.baseurl }}{% link pages/any-percent.md %})

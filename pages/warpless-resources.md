@@ -5,11 +5,11 @@ date:   2018-11-14 17:44:50 -0700
 categories: jekyll update
 ---
 
-Kirua has made a beginner's guide for new Warpless runners and you can find it [here]({% post_url 2018-11-24-warpless-beginner-route-kirua %})
+Kirua has made a beginner's guide for new Warpless runners and you can find it [here]({% link pages/warpless-beginner-route-kirua.md %})
 
 (Rest copied from Aweglib's Pastebin: <http://pastebin.com/faZyLxux>)
 
-The [Warpless Route by CujoIHSV]({% post_url 2018-11-14-warpless-route-guide-cujo %}) goes over basic theory, when and where to fight hammer bros and use items, etc.
+The [Warpless Route by CujoIHSV]({% link pages/warpless-route-guide-cujo.md %}) goes over basic theory, when and where to fight hammer bros and use items, etc.
 
 Warpless Tutorial by WhenChukAttacks: <https://www.twitch.tv/whenchukattacks/v/42569050>
 
