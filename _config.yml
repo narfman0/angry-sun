@@ -14,3 +14,4 @@ plugins:
 header_pages:
   - pages/warpless-resources.md
   - pages/links.md
+  - pages/notes.md
