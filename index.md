@@ -8,32 +8,32 @@ title: "Angry Sun - Super Mario Brothers 3 runner's guide"
 
 ## Info
 
-[Common Race Routes]({% post_url 2018-11-14-common-race-routes %})
+[Common Race Routes]({{ site.baseurl }}{% post_url 2018-11-14-common-race-routes %})
 
-[Hardware Guide]({% post_url 2018-11-14-hardware-guide %})
+[Hardware Guide]({{ site.baseurl }}{% post_url 2018-11-14-hardware-guide %})
 
-[Terminology]({% post_url 2018-11-14-terminology %})
+[Terminology]({{ site.baseurl }}{% post_url 2018-11-14-terminology %})
 
-[Version Differences]({% post_url 2018-11-14-version-differences %})
+[Version Differences]({{ site.baseurl }}{% post_url 2018-11-14-version-differences %})
 
 ## Resources/guides/tutorials
 
-[Warpless]({% post_url 2018-11-14-warpless-resources %})
+[Warpless]({{ site.baseurl }}{% post_url 2018-11-14-warpless-resources %})
 
-[Any%]({% post_url 2018-11-14-any-percent %})
+[Any%]({{ site.baseurl }}{% post_url 2018-11-14-any-percent %})
 
-[All forts]({% post_url 2018-11-24-allforts-cujo %})
+[All forts]({{ site.baseurl }}{% post_url 2018-11-24-allforts-cujo %})
 
 ## Links
 
-[Links]({% post_url 2018-11-14-links %})
+[Links]({{ site.baseurl }}{% post_url 2018-11-14-links %})
 
-[Practice roms]({% post_url 2018-11-14-practice-roms %})
+[Practice roms]({{ site.baseurl }}{% post_url 2018-11-14-practice-roms %})
 
 ## Advanced
 
-[Early hammer]({% post_url 2018-11-14-early-hammer %})
+[Early hammer]({{ site.baseurl }}{% post_url 2018-11-14-early-hammer %})
 
-[Frog %]({% post_url 2018-11-14-frog-percent %})
+[Frog %]({{ site.baseurl }}{% post_url 2018-11-14-frog-percent %})
 
-[N-Spade Bug]({% post_url 2018-11-14-nspade-bug %})
+[N-Spade Bug]({{ site.baseurl }}{% post_url 2018-11-14-nspade-bug %})
