@@ -22,7 +22,7 @@ The cheapest and easiest way to get into SMB3 running is an emulator running on 
     -   *Significant* input lag.
     -   Varying degrees of inaccuracy.
 
-### Official/Unofficial Nintendo Hardware Emulation (WiiVC, NESClassic, RetroUSB AVS)
+### Official/Unofficial Nintendo Hardware Emulation (Switch, WiiVC, NESClassic, RetroUSB AVS)
 
 These platforms are on par with accurate emulators and generally considered acceptable for runs.
 
