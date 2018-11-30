@@ -5,6 +5,18 @@ date:   2018-11-23 21:00:00 -0500
 categories: jekyll update
 ---
 
+# Boom boom firekill, hops, and overkill (or4ng33xp0)
+
+It's crazy how the developers decided to program boom booms. They gave them 37
+hitpoints and looked at when they hit 32 hitpoints to have
+the boom boom change states and turn into the orb. The boom boom is actually never
+"killed." Most objects have a "killed" state, and the boom booms never use that
+state...they're always in the "normal" state.
+
+When two fireballs hit on the same frame, it takes the boom boom to 31 hitpoints, so the
+game never sees the 32 hitpoints. You then have to either stomp on him 3 times or hit him
+31 more times to cause the upside down orb overkill.
+
 # Bowser frame hops (or4ng33xp0)
 
 It takes 32 frames for Bowser to jump and fall back to the floor, where he spends another 16 frames before hopping again. After 5 hops, you just need the Timer3 value to not be 0 so that he'll do another "wait 16 frames, then hop".
