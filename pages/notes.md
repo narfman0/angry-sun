@@ -26,10 +26,6 @@ That's 11 or 12 good values out of 128 (because the random value is set to betwe
 4 hops = 48/128 = 37.5%  
 3 hops = 21/128 = 16.4%  
 
-# Lui practice rom (Lui) [download](https://cdn.discordapp.com/attachments/121413022731337732/502671645924655124/smb3practice.nes)
-
-not much new, but i've replaced the anchor with something that looks like a poison shroom that makes you small mario on the map, also added some meme easter egg which may or may not be useful, see if you can figure it out
-
 # Powerup grab/damage frame #s (Tompa) [src](https://pastebin.com/sySbjFAd)
 
 Mario -> Super = 47 frames  
@@ -145,5 +141,3 @@ Click the play online to have your card, window capture in OBS or whatever it is
 Refresh and or edit link will change the card to setup for a new one.
 
 # All forts route guide (Cujo) [src](https://docs.google.com/document/d/1n16AFOPGwFfTmSnErjU1dRpM2M8KhprRqBztqyvjVek/edit#heading=h.qq45edsb0zox)
-
-# Dotsarecool practice rom (dotsarecool) [link](http://www.dotsarecool.com/twitch/smb3pspeed.html)
