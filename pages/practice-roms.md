@@ -23,7 +23,23 @@ should yield the target practice rom.
   - [rom link](https://cdn.discordapp.com/attachments/121413022731337732/502671645924655124/smb3practice.nes)
   - [patch link]({{ site.baseurl }}/assets/patches/smb3practice.ips)
 
-### Notes
+## Alternatives
+
+### [SMB3 bingo (mitchflowerpower)](#bingo)
+
+this should be the most updated ver of bingo with the cards link [Super_Mario_Bros._3_USA_Rev_9.nes](https://cdn.discordapp.com/attachments/121413022731337732/396115380076281859/Super_Mario_Bros._3_USA_Rev_9.nes)
+
+Instructions: https://bingobaker.com/view/1451346
+
+Click the play online to have your card, window capture in OBS or whatever it is that you use
+
+Refresh and or edit link will change the card to setup for a new one.
+
+### [Romhacking SMB3](http://www.romhacking.net/games/750/)
+
+### [Route Randomizer](https://sites.google.com/site/smb3randomizer/home)
+
+## Notes
 
 Some generic patches recommended for all of the above
 
@@ -32,3 +48,5 @@ Some generic patches recommended for all of the above
 
 - nocards -removes all random card encounters, normally triggered every time a players score passes a multiple of 80000.
   - [patch link](https://github.com/narfman0/romhacks/blob/master/Super%20Mario%20Bros%203%20nocards.ips?raw=true)
+
+- others here: [github narfman0/romhacks](https://github.com/narfman0/romhacks)
