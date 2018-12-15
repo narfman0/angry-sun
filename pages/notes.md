@@ -5,7 +5,20 @@ date:   2018-11-23 21:00:00 -0500
 categories: jekyll update
 ---
 
-# Boom boom firekill, hops, and overkill (or4ng33xp0)
+# 5-6 exit pipe crushing (Lui)
+
+If you touch the side of the screen at max walking speed or more, it's possible
+to clip ahead by 2 pixels and get crushed. Tap right without running from a full
+stop before hitting the right side, then hold right into it without risking
+a death.
+
+# 6-10 P-Speed Fire Grabs from Big Mario (2 methods) (Kirua) [src](https://www.twitch.tv/videos/105484752)
+
+# Boom Boom hammer glitch (mitchflowerpower)
+
+Glitchy boom boom kill [youtube](https://youtu.be/Z_dhOjulIgs)
+
+# Boom Boom firekill, hops, and overkill (or4ng33xp0)
 
 It's crazy how the developers decided to program boom booms. They gave them 37
 hitpoints and looked at when they hit 32 hitpoints to have
@@ -37,15 +50,6 @@ That's 11 or 12 good values out of 128 (because the random value is set to betwe
 5 hops = 48/128 = 37.5%  
 4 hops = 48/128 = 37.5%  
 3 hops = 21/128 = 16.4%  
-
-# Powerup grab/damage frame #s (Tompa) [src](https://pastebin.com/sySbjFAd)
-
-Mario -> Super = 47 frames  
-Super -> Mario = 47 frames  
-Super -> Leaf  = 23 frames  
-Leaf  -> Super = 23 frames  
-Super -> Fire  = 30 frames  
-Fire  -> Super = 23 frames  
 
 # Bowser routine logic (or4ng33xp0)
 
@@ -95,7 +99,11 @@ to Bowser being in the air from a little hop when Timer3 hit 0.
 
 # Boss pattern (TheHaxor)
 
-I made a video explaining how boss patterns are determined in general and a couple videos for the common W4 and W5 fire kills in warpless since I've had some people asking me about it recently and there doesn't seem to be a great resource that exists to my knowledge. I pretty much had to learn how to do them from other people's VODs.
+I made a video explaining how boss patterns are determined in general and a
+couple videos for the common W4 and W5 fire kills in warpless since I've had
+some people asking me about it recently and there doesn't seem to be a great
+resource that exists to my knowledge. I pretty much had to learn how to do
+them from other people's VODs.
 
 Boss pattern introduction: <https://www.twitch.tv/videos/313176738>  
 Common World 4 warpless fire kills: <https://www.twitch.tv/videos/313176739>  
@@ -103,27 +111,17 @@ Common World 5 warpless fire kills: <https://www.twitch.tv/videos/313176740>
 
 # Early hammer (or4ng33xp0)
 
-I've been working a bit on cleaning up my Early Hammer pastebin and adding some images and animations. It's definitely not done yet and could use some better images and gifs, but I figured it's probably at least a little more helpful than a wall of text.
+I've been working a bit on cleaning up my Early Hammer pastebin and adding
+some images and animations. It's definitely not done yet and could use some
+better images and gifs, but I figured it's probably at least a little more
+helpful than a wall of text.
 
 [smb3.bf0.org](http://smb3.bf0.org/)
 
-# SMB3 rom assorted patches (narfman0)
-
-[github narfman0/romhacks](https://github.com/narfman0/romhacks)
-
-# Notes on pspeed (Tompa)
-
-Here are some notes on the P-meter: [pastebin](https://pastebin.com/TdUqKgcx)
-
-If your speed is over 40 and you land, while you have P-speed activated, you'll always be able to keep it. Less than 40 speed, then you'll only keep it if you jump on the earliest frame, or have previously hit a wall, and a few other exceptions
-
-# Lemmy fire kill (Horsedad / ilm)
-
-On a unrelated note, ILM showed me this really cool Lemmy firekill today that lets you avoid having to rely on bouncing off his back. It's slightly slower, but far, far more consistent. To be clear, this is all ILM's creation. <https://www.twitch.tv/videos/281359865>
-
 # Hammer bro movement direction item (Tompa) [src](https://pastebin.com/7gZRRiZx)
 
-After a Hammer Brother has moved, it will always face a specific direction. This way you can tell which HB that has which item.
+After a Hammer Brother has moved, it will always face a specific direction.
+This way you can tell which HB that has which item.
  
 HB1: Facing Right  
 HB2: Facing Left  
@@ -136,11 +134,35 @@ World 4: HB1 = P-Wing       HB2 = Star      HB3 = Cloud
 World 5: HB1 = Star         HB2 = Music Box HB3 = P-Wing  
 World 6: HB1 = Hammer       HB2 = Cloud     HB3 = Star  
 
-# 6-10 P-Speed Fire Grabs from Big Mario (2 methods) (Kirua) [src](https://www.twitch.tv/videos/105484752)
+# Lemmy fire kill (Horsedad / ilm)
 
-# Boom Boom hammer glitch (mitchflowerpower)
+On a unrelated note, ILM showed me this really cool Lemmy firekill today that
+lets you avoid having to rely on bouncing off his back. It's slightly slower,
+but far, far more consistent. To be clear, this is all ILM's creation.
+<https://www.twitch.tv/videos/281359865>
 
-Glitchy boom boom kill [youtube](https://youtu.be/Z_dhOjulIgs)
+# Powerup grab/damage frame #s (Tompa) [src](https://pastebin.com/sySbjFAd)
+
+Mario -> Super = 47 frames  
+Super -> Mario = 47 frames  
+Super -> Leaf  = 23 frames  
+Leaf  -> Super = 23 frames  
+Super -> Fire  = 30 frames  
+Fire  -> Super = 23 frames  
+
+
+# Pspeed notes (Tompa)
+
+Here are some notes on the P-meter: [pastebin](https://pastebin.com/TdUqKgcx)
+
+If your speed is over 40 and you land, while you have P-speed activated, you'll
+always be able to keep it. Less than 40 speed, then you'll only keep it if you
+jump on the earliest frame, or have previously hit a wall, and a few other
+exceptions
+
+# SMB3 rom assorted patches (narfman0)
+
+[github narfman0/romhacks](https://github.com/narfman0/romhacks)
 
 # SMB3 bingo (mitchflowerpower)
 
@@ -151,5 +173,3 @@ Instructions: https://bingobaker.com/view/1451346
 Click the play online to have your card, window capture in OBS or whatever it is that you use
 
 Refresh and or edit link will change the card to setup for a new one.
-
-# All forts route guide (Cujo) [src](https://docs.google.com/document/d/1n16AFOPGwFfTmSnErjU1dRpM2M8KhprRqBztqyvjVek/edit#heading=h.qq45edsb0zox)
