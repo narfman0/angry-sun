@@ -5,20 +5,20 @@ date:   2018-11-23 21:00:00 -0500
 categories: jekyll update
 ---
 
-# [5-6 exit pipe crushing (Lui)](#5-6crush)
+# [5-6 exit pipe crushing (Lui)](#5-6-exit-pipe-crushing-lui)
 
 If you touch the side of the screen at max walking speed or more, it's possible
 to clip ahead by 2 pixels and get crushed. Tap right without running from a full
 stop before hitting the right side, then hold right into it without risking
 a death.
 
-# [6-10 P-Speed Fire Grabs from Big Mario (2 methods) (Kirua)](#6-10firegrab) [src](https://www.twitch.tv/videos/105484752)
+# [6-10 P-Speed Fire Grabs from Big Mario (2 methods) (Kirua)](#6-10-p-speed-fire-grabs-from-big-mario-2-methods-kirua-src) [src](https://www.twitch.tv/videos/105484752)
 
-# [Boom Boom hammer glitch (mitchflowerpower)](#boomboomhammerglitch)
+# [Boom Boom hammer glitch (mitchflowerpower)](#boom-boom-hammer-glitch-mitchflowerpower)
 
 Glitchy boom boom kill [youtube](https://youtu.be/Z_dhOjulIgs)
 
-# [Boom Boom firekill, hops, and overkill (or4ng33xp0)](#boomboomoverkill)
+# [Boom Boom firekill, hops, and overkill (or4ng33xp0)](#boom-boom-firekill-hops-and-overkill-or4ng33xp0)
 
 It's crazy how the developers decided to program boom booms. They gave them 37
 hitpoints and looked at when they hit 32 hitpoints to have
@@ -30,7 +30,7 @@ When two fireballs hit on the same frame, it takes the boom boom to 31 hitpoints
 game never sees the 32 hitpoints. You then have to either stomp on him 3 times or hit him
 31 more times to cause the upside down orb overkill.
 
-# [Bowser frame hops (or4ng33xp0)](#bowserhops)
+# [Bowser frame hops (or4ng33xp0)](#bowser-frame-hops-or4ng33xp0)
 
 It takes 32 frames for Bowser to jump and fall back to the floor, where he spends another 16 frames before hopping again. After 5 hops, you just need the Timer3 value to not be 0 so that he'll do another "wait 16 frames, then hop".
 
@@ -51,7 +51,7 @@ That's 11 or 12 good values out of 128 (because the random value is set to betwe
 4 hops = 48/128 = 37.5%  
 3 hops = 21/128 = 16.4%  
 
-# [Bowser routine logic (or4ng33xp0)](#bowserroutine)
+# [Bowser routine logic (or4ng33xp0)](#bowser-routine-logic-or4ng33xp0)
 
 Mario spawns Bowser like other enemies, due to scrolling within some range. When Bowser spawns, he is
 in his "Wait for player" mode, waiting until the screen has scrolled all the way to the middle of the
@@ -97,7 +97,7 @@ of "Jump Delay" = 202.
 I did some manual memory editing on the TAS, and a value of 198 (0xC6) was still good enough, due
 to Bowser being in the air from a little hop when Timer3 hit 0.
 
-# [Boss pattern (TheHaxor)](#bosspattern)
+# [Boss pattern (TheHaxor)](#boss-pattern-thehaxor)
 
 I made a video explaining how boss patterns are determined in general and a
 couple videos for the common W4 and W5 fire kills in warpless since I've had
@@ -109,7 +109,7 @@ Boss pattern introduction: <https://www.twitch.tv/videos/313176738>
 Common World 4 warpless fire kills: <https://www.twitch.tv/videos/313176739>  
 Common World 5 warpless fire kills: <https://www.twitch.tv/videos/313176740>  
 
-# [Early hammer (or4ng33xp0)](#earlyhammer)
+# [Early hammer (or4ng33xp0)](#early-hammer-or4ng33xp0)
 
 I've been working a bit on cleaning up my Early Hammer pastebin and adding
 some images and animations. It's definitely not done yet and could use some
@@ -118,7 +118,7 @@ helpful than a wall of text.
 
 [smb3.bf0.org](http://smb3.bf0.org/)
 
-# [Hammer bro movement direction item (Tompa)](#hammerbroitemdirection) [src](https://pastebin.com/7gZRRiZx)
+# [Hammer bro movement direction item (Tompa)](#hammer-bro-movement-direction-item-tompa-src) [src](https://pastebin.com/7gZRRiZx)
 
 After a Hammer Brother has moved, it will always face a specific direction.
 This way you can tell which HB that has which item.
@@ -134,14 +134,14 @@ World 4: HB1 = P-Wing       HB2 = Star      HB3 = Cloud
 World 5: HB1 = Star         HB2 = Music Box HB3 = P-Wing  
 World 6: HB1 = Hammer       HB2 = Cloud     HB3 = Star  
 
-# [Lemmy fire kill (Horsedad / ilm)](#lemmyfirekill)
+# [Lemmy fire kill (Horsedad / ilm)](#lemmy-fire-kill-horsedad--ilm)
 
 On a unrelated note, ILM showed me this really cool Lemmy firekill today that
 lets you avoid having to rely on bouncing off his back. It's slightly slower,
 but far, far more consistent. To be clear, this is all ILM's creation.
 <https://www.twitch.tv/videos/281359865>
 
-# [Powerup grab/damage frame #s (Tompa)](#powerupframes) [src](https://pastebin.com/sySbjFAd)
+# [Powerup grab/damage frame #s (Tompa)](#powerup-grabdamage-frame-s-tompa-src) [src](https://pastebin.com/sySbjFAd)
 
 Mario -> Super = 47 frames  
 Super -> Mario = 47 frames  
@@ -151,7 +151,7 @@ Super -> Fire  = 30 frames
 Fire  -> Super = 23 frames  
 
 
-# [Pspeed notes (Tompa)](#pspeednotes)
+# [Pspeed notes (Tompa)](#pspeed-notes-tompa)
 
 Here are some notes on the P-meter: [pastebin](https://pastebin.com/TdUqKgcx)
 
