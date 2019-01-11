@@ -43,7 +43,7 @@ Refresh and or edit link will change the card to setup for a new one.
 
 Some generic patches recommended for all of the above
 
-- noauto -removes autoscroller from the game, not including 5-9 (which I'll try to find at a later date)
+- noauto -removes autoscroller from the game
   - [patch link](https://github.com/narfman0/romhacks/blob/master/Super%20Mario%20Bros%203%20noauto.ips?raw=true)
 
 - nodeaths -removes decrement of lives upon enemy death. it removes some code paths that slow down gameplay and never worry about restarting worlds
