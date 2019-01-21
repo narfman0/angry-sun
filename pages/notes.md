@@ -134,6 +134,24 @@ World 4: HB1 = P-Wing       HB2 = Star      HB3 = Cloud
 World 5: HB1 = Star         HB2 = Music Box HB3 = P-Wing  
 World 6: HB1 = Hammer       HB2 = Cloud     HB3 = Star  
 
+| World | Item      | Facing | # |
+|-------|-----------|--------|---|
+| 1     | Star      | R      | 1 |
+| 2     | Music Box | R      | 1 |
+| 2     | Hammer    | L      | 2 |
+| 2     | Flute     | R      | 3 |
+| 3     | Star      | R      | 1 |
+| 3     | Hammer    | L      | 2 |
+| 4     | P-Wing    | R      | 1 |
+| 4     | Star      | L      | 2 |
+| 4     | Cloud     | R      | 3 |
+| 5     | Star      | R      | 1 |
+| 5     | Music Box | L      | 2 |
+| 5     | P-Wing    | R      | 3 |
+| 6     | Hammer    | R      | 1 |
+| 6     | Cloud     | L      | 2 |
+| 6     | Star      | R      | 3 |
+
 # [Lemmy fire kill (Horsedad / ilm)](#lemmy-fire-kill-horsedad--ilm)
 
 On a unrelated note, ILM showed me this really cool Lemmy firekill today that
