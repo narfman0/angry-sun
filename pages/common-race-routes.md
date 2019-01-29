@@ -9,8 +9,7 @@ The following are basic routes for each of the specific goals.
 
 Timing for all routes begins on hitting the Start button on the title screen to begin the game. 
 
-100%
-----
+# [100%](#100)
 
 In a **Hundo**, racers must complete every stage in the entire game as fast as possible. The general expectation is that every stage is interacted with and somehow cleared.
 
@@ -24,8 +23,7 @@ In a **Hundo**, racers must complete every stage in the entire game as fast as p
 
 Timing ends on entering the final door after defeating Bowser.
 
-Any% Warpless
--------------
+# [Any% Warpless](#any-warpless)
 
 In a **Warpless**, racers must complete the game as fast as possible without using warps. The general expectation is that all 8 worlds are navigated through and cleared in some way.
 
@@ -42,8 +40,7 @@ Timing ends on entering the final door after defeating Bowser.
 
 ### [Resources]({{ site.baseurl }}{% link pages/warpless-resources.md %})
 
-Any% No Wrong Warp
-------------------
+# [Any% No Wrong Warp](#any-no-wrong-warp)
 
 In a **No Wrong Warp**, racers must complete the game as fast as possible without utilizing the game-breaking wrong warp present in 7-1. The general expectation is that proper, non-glitched warps will be used to expedite the process of beating the game as much as possible without breaking it.
 
@@ -56,8 +53,7 @@ Essentially, this route utilizes two Warp Whistles acquired from 1-3 and 1-F to 
 
 Timing ends on entering the final door after defeating Bowser.
 
-Any%
-----
+# [Any%](#any)
 
 In an **Any Percent**, racers must complete the game as fast as possible, by any means necessary. Major glitches are allowed.
 
