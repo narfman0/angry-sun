@@ -21,7 +21,7 @@ Talks about basic movement in general as well as strats for levels, good source 
 
 Another good tutorial, split up by worlds. Shows individual levels then breaks them down for visual cues, etc.
 
-### Warpless Strategy by Aweglib(me :P):
+### Warpless Strategy by Aweglib:
 
 [Part 1 Worlds 1-3](http://www.twitch.tv/aweglib/v/34984893)
 
