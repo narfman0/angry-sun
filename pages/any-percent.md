@@ -2,7 +2,7 @@
 layout: post
 title:  "Any% Resources"
 date:   2018-11-14 17:44:50 -0700
-categories: jekyll update
+categories: any anypercent route guide
 ---
 
 Producks left us with a treasure trove of knowledge when he departed the community. This included two tutorials for Any%, also known as Wrong Warp and Credits Glitch.

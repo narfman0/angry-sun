@@ -2,7 +2,7 @@
 layout: post
 title:  "Links"
 date:   2018-11-14 17:44:50 -0700
-categories: jekyll update
+categories: links romhacking randomizer southbird discord speedrun
 ---
 
 * [Romhacking SMB3](http://www.romhacking.net/games/750/)

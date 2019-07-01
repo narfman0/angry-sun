@@ -2,7 +2,7 @@
 layout: post
 title:  "SMB3 Warpless Beginner Route (Kirua)"
 date:   2018-11-24 21:00:00 -0500
-categories: jekyll update
+categories: warpless route guide kirua
 ---
 
 SMB3 Warpless Beginner Route

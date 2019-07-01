@@ -2,7 +2,7 @@
 layout: post
 title:  "Practice ROMs"
 date:   2018-11-14 17:44:50 -0700
-categories: jekyll update
+categories: practice roms
 ---
 
 ## ROMs

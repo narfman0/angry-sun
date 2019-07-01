@@ -2,7 +2,7 @@
 layout: post
 title:  "Version Differences"
 date:   2018-11-14 17:44:50 -0700
-categories: jekyll update
+categories: version differences
 ---
 
 # Version differences (Kirua) [src](https://www.speedrun.com/smb3/thread/7pslq)

@@ -2,7 +2,7 @@
 layout: post
 title:  "All fortresses route guide (Cujo)"
 date:   2018-11-24 21:00:00 -0500
-categories: jekyll update
+categories: cujo allforts forts route guide
 ---
 
 ## Rules

@@ -2,7 +2,7 @@
 layout: post
 title:  "N-Spade Bug"
 date:   2018-11-14 17:44:50 -0700
-categories: jekyll update
+categories: notes nspade
 ---
 
 (Copied from Cujo's pastebin at <http://pastebin.com/xGt8wE23>)

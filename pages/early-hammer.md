@@ -2,7 +2,7 @@
 layout: post
 title:  "Early Hammer"
 date:   2018-11-14 17:44:50 -0700
-categories: jekyll update
+categories: notes eh earlyhammer early hammer
 ---
 
 ## or4ng33xp0 research

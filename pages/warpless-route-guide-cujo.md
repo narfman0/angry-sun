@@ -2,7 +2,7 @@
 layout: post
 title:  "Warpless Route Guide (Cujo)"
 date:   2018-11-14 17:44:50 -0700
-categories: jekyll update
+categories: warpless route guide cujo
 ---
 
 (Copied from [src](https://docs.google.com/document/d/1Sq8C-vA00iixrmWg2_iohQxmnGCAlI2_Na7fGt-5SQA/edit))

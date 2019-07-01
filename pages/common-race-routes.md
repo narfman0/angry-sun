@@ -2,7 +2,7 @@
 layout: post
 title:  "Common Race Routes"
 date:   2018-11-14 17:44:50 -0700
-categories: jekyll update
+categories: race routes
 ---
 
 The following are basic routes for each of the specific goals.

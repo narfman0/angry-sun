@@ -2,7 +2,7 @@
 layout: post
 title:  "Warpless Resources"
 date:   2018-11-14 17:44:50 -0700
-categories: jekyll update
+categories: resources warpless
 ---
 
 ### [Kirua beginner guide for new Warpless runners]({{ site.baseurl }}/{% link pages/warpless-beginner-route-kirua.md %})

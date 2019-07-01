@@ -18,6 +18,8 @@ title: "Angry Sun - Super Mario Brothers 3 runner's guide"
 
 ## Resources/guides/tutorials
 
+[100%]({{ site.baseurl }}{% link pages/hundo-resources.md %})
+
 [Warpless]({{ site.baseurl }}{% link pages/warpless-resources.md %})
 
 [Any%]({{ site.baseurl }}{% link pages/any-percent.md %})

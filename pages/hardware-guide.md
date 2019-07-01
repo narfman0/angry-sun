@@ -2,7 +2,7 @@
 layout: post
 title:  "Hardware Guide"
 date:   2018-11-14 17:44:50 -0700
-categories: jekyll update
+categories: guide hardware
 ---
 
 Short answer: Serious runners will want a NES. Serious streamers will want an RGBNES.

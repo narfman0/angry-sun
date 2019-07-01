@@ -2,7 +2,7 @@
 layout: post
 title:  "Frog%"
 date:   2018-11-14 17:44:50 -0700
-categories: jekyll update
+categories: frog route guide
 ---
 
 (Copied from Aweglib's [pastebin](http://pastebin.com/P7Yu3JEM))

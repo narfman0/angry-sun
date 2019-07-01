@@ -2,7 +2,7 @@
 layout: post
 title:  "Terminology"
 date:   2018-11-14 17:44:50 -0700
-categories: jekyll update
+categories: terminology
 ---
 
 A list of commonly used terms and abbreviations (Note: Terms with a # sign can be used with multiple numbers)
@@ -11,7 +11,7 @@ A list of commonly used terms and abbreviations (Note: Terms with a # sign can b
 * HB - Hammer Brother, they like to run marathons around the screen.
 * F# - Fort(ress), the dwelling of Boom Boom.
 * IL - Individual Level: Getting a single exit as fast as possible, regardless of whether or not it can be used in any full-game run. Sometimes has restrictions.
-* Macaroni & Cheese - Getting a clip/zip on your very first attempt. Most commonly refers to the 7-1 clip, but can also be used to refer to other clips as well.
+* Macaroni & Cheese - Getting 7-1 zip on your very first attempt
 * P-speed - The bar that fills up as mario runs, it makes him faster accordingly and allows for longer jumps. 
 * P-heavy - A strat heavily reliant on a specific p-speed value to work. 
 * TAS - Tool Assisted Speedrun, using a device to make a non-human only gameplay.

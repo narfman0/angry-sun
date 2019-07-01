@@ -2,7 +2,7 @@
 layout: post
 title:  "Notes (discord pins)"
 date:   2018-11-23 21:00:00 -0500
-categories: jekyll update
+categories: notes
 ---
 
 # [5-6 exit pipe crushing (Lui)](#5-6-exit-pipe-crushing-lui)
@@ -158,6 +158,8 @@ On a unrelated note, ILM showed me this really cool Lemmy firekill today that
 lets you avoid having to rely on bouncing off his back. It's slightly slower,
 but far, far more consistent. To be clear, this is all ILM's creation.
 <https://www.twitch.tv/videos/281359865>
+
+# [maps](#maps) [nesmaps](https://www.nesmaps.com/maps/SuperMarioBrothers3/SuperMarioBrothers3.html)
 
 # [Powerup grab/damage frame #s (Tompa)](#powerup-grabdamage-frame-s-tompa-src) [src](https://pastebin.com/sySbjFAd)
 
