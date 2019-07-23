@@ -14,6 +14,15 @@ a death.
 
 # [6-10 P-Speed Fire Grabs from Big Mario (2 methods) (Kirua)](#6-10-p-speed-fire-grabs-from-big-mario-2-methods-kirua-src) [src](https://www.twitch.tv/videos/105484752)
 
+# [7-1 subpixel manipulation](#7-1-subpixel-manipulation)
+
+After you kill Lemmy (world 6 airship), there is some time before the wand grab. Position yourself under the
+wand and come to a stop. Tap right as briefly as possible. If Mario does not move right a pixel, keep
+pressing single frame inputs to the right. If Mario moves a pixel, stop and wait for wand. When Mario
+doesn't move, the subpixel is incrementing higher. We want a low subpixel value though, so when he does
+move the single pixel, this means the subpixel is very low with only whatever remainder is left after
+incrementing Mario's x position.
+
 # [Boom Boom hammer glitch (mitchflowerpower)](#boom-boom-hammer-glitch-mitchflowerpower)
 
 Glitchy boom boom kill [youtube](https://youtu.be/Z_dhOjulIgs)
