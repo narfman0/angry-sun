@@ -24,7 +24,7 @@ title: "Angry Sun - Super Mario Brothers 3 runner's guide"
 
 [Any%]({{ site.baseurl }}{% link pages/any-percent.md %})
 
-[All forts]({{ site.baseurl }}{% link pages/allforts-cujo.md %})
+[All forts]({{ site.baseurl }}{% link pages/allforts-resources.md %})
 
 ## Links
 
