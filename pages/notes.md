@@ -23,6 +23,34 @@ doesn't move, the subpixel is incrementing higher. We want a low subpixel value 
 move the single pixel, this means the subpixel is very low with only whatever remainder is left after
 incrementing Mario's x position.
 
+# [7-7 practice rom info (Lui)](#7-7-practice-rom-info) [src](https://pastebin.com/kkpta9JH) [rom patch link]({{ site.baseurl }}/assets/patches/smb3practice_7-7.ips)
+
+HUD features: ![Lui description]({{ site.baseurl }}/assets/notes/7-7epic.png)
+ 
+The following are some of the most commonly encountered values for the X/Y coordinates while attempting to clip
+ 
+|X1 | Y1    | X2   |   Y2       |   description                          |
+|---|-------|------|------------|----------------------------------------|
+|AF | F/0/1 | B3   |   2/3/4    |   bad lineup (-1.5 px)                 |
+|B0 | F/0/1 | B3   |   2/3/4    |   bad lineup (-1 px)                   |
+|B0 | F/0/1 | B4   |   2/3/4    |   bad lineup (-0.5 px)                 |
+|B1 | F/0/1 | B4   |   2/3/4    |   clip                                 |
+|B1 | F/0/1 | B5   |   0/1      |   bad lineup (+0.5 px)                 |
+|B2 | F/0/1 | B5   |   0/1      |   bad lineup (+1 px)                   |
+|B2 | F/0/1 | B6   |   0/1      |   bad lineup (+1.5 px)                 |
+|   |       |      |            |                                        |
+|AD | D/E   | B1   |   F/0/1    |  clip, positions logged a frame early  |
+|B1 | E     | B4   |   1        |  good lineup, but jumped a frame late  |
+ 
+Lineup is essentially luck based, so the goal is to be within 3.5 pixels off of the good X coordinates, since Mario's max running speed is 3.5px/f.
+ 
+Note that the ranges of Y positions that may work can vary:
+- with a low jump (low 3x Y speed), F/0/1 on frame 1 then 2/3/4 on frame 2 should be good
+- with a higher jump (high 3x up to 45 Y speed), E/F/0 on frame 1 then 2/3/4 on frame 2 should be good
+Low jumps are recommended of course, but avoid having under 30 Y speed near the pipe.
+ 
+Also, landing on the pipe gives a position of 0, or 1 for a frame, and that's usually logged on the 2nd frame.
+
 # [Boom Boom hammer glitch (mitchflowerpower)](#boom-boom-hammer-glitch-mitchflowerpower)
 
 Glitchy boom boom kill [youtube](https://youtu.be/Z_dhOjulIgs)
@@ -188,3 +216,5 @@ If your speed is over 40 and you land, while you have P-speed activated, you'll
 always be able to keep it. Less than 40 speed, then you'll only keep it if you
 jump on the earliest frame, or have previously hit a wall, and a few other
 exceptions
+
+# [Route Comparison (Lui)](#route-comparison) [src](https://docs.google.com/spreadsheets/d/e/2PACX-1vTzbqZb96uT2mP5Y11l9E_YZdCYWh_hChzw_v05kGzbjUeVm1_ZPpEl2lq0oYa7eikTvw3gqkAZSUS5/pubhtml#)

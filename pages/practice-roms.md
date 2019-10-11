@@ -23,6 +23,10 @@ should yield the target practice rom.
   - [rom link](https://cdn.discordapp.com/attachments/121413022731337732/502671645924655124/smb3practice.nes)
   - [patch link]({{ site.baseurl }}/assets/patches/smb3practice.ips)
 
+- Lui's 7-7 practice rom
+  - [rom link](https://cdn.discordapp.com/attachments/121413022731337732/565682523091501056/smb3practice_7-7.nes)
+  - [patch link]({{ site.baseurl }}/assets/patches/smb3practice_7-7.ips)
+
 ## Alternatives
 
 ### [SMB3 bingo (mitchflowerpower)](#bingo)
