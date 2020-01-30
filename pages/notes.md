@@ -207,7 +207,6 @@ Leaf  -> Super = 23 frames
 Super -> Fire  = 30 frames  
 Fire  -> Super = 23 frames  
 
-
 # [Pspeed notes (Tompa)](#pspeed-notes-tompa)
 
 Here are some notes on the P-meter: [pastebin](https://pastebin.com/TdUqKgcx)
@@ -216,5 +215,29 @@ If your speed is over 40 and you land, while you have P-speed activated, you'll
 always be able to keep it. Less than 40 speed, then you'll only keep it if you
 jump on the earliest frame, or have previously hit a wall, and a few other
 exceptions
+
+# [Max speeds (Tompa)](#pspeed-notes-tompa) [src](https://pastebin.com/cVFCvpbf)
+
+The various top speeds you can have in SMB3. The number is how many subpixels you move/frame. 16 subpixels make up a whole pixel.
+
+| Max Speed | Condition |
+| 8  | Being pushed by the wall in an autoscroller. |
+| 11 | Walking uphill. |
+| 16 | Scrolling through walls/slow swim with Frog. |
+| 20 | Running uphill. |
+| 22 | Attached by Micro Goomba. |
+| 23 | Flying. When you start flying, you may have more speed, but the speed will eventually drop down to 23. |
+| 24 | Walking/swimming. |
+| 27 | Walking downhill |
+| 32 | Fast swim with Frog. |
+| 40 | Running. |
+| 41 | Jumping with Frog Suit, you can accelerate from 39 to 41 speed units/frame with the frog. |
+| 43 | Running downhill |
+| 48 | Speed of Mario's fireballs |
+| 56 | P-Speed |
+| 57 | P-speed with Frog Suit, you can accelerate from 55 to 57 speed units/frame with the frog. |
+| 59 | P-speed downhill. |
+| 63 | Sliding downhill. |
+| 64 | Boosted by spinner. |
 
 # [Route Comparison (Lui)](#route-comparison) [src](https://docs.google.com/spreadsheets/d/e/2PACX-1vTzbqZb96uT2mP5Y11l9E_YZdCYWh_hChzw_v05kGzbjUeVm1_ZPpEl2lq0oYa7eikTvw3gqkAZSUS5/pubhtml#)
