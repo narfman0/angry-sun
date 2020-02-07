@@ -11,4 +11,7 @@ categories: resources allforts forts%
 
 ### [Zikubi wrong warp fire flower pause setup](https://www.youtube.com/watch?v=l0oqHFDaZ7w)
 
+Zikubi fire note: if the koopa moves to the right AFTER bonk, line up to 62 pixel
+If the koopa shell does NOT move with the bonk, line up on 61 pixel.
+
 ### [Cujo route guide]({{ site.baseurl }}/{% link pages/allforts-cujo.md %})
