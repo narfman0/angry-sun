@@ -14,7 +14,10 @@ a death.
 
 # [6-10 P-Speed Fire Grabs from Big Mario (2 methods) (Kirua)](#6-10-p-speed-fire-grabs-from-big-mario-2-methods-kirua-src) [src](https://www.twitch.tv/videos/105484752)
 
-# [7-1 subpixel manipulation](#7-1-subpixel-manipulation) [src](https://youtu.be/69ykM4gXbsA)
+# [7-1 subpixel manipulation](#7-1-subpixel-manipulation)
+
+[Lui video](https://youtu.be/69ykM4gXbsA)
+[MFP video](https://www.youtube.com/watch?v=e8IJpquq69c)
 
 After you kill Lemmy (world 6 airship), there is some time before the wand grab. Position yourself under the
 wand and come to a stop. Tap right as briefly as possible. If Mario does not move right a pixel, keep
