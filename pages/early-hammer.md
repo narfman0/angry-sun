@@ -9,9 +9,7 @@ categories: notes eh earlyhammer early hammer
 
 ## [Early hammer (or4ng33xp0)]({{ site.baseurl }}{% link pages/early-hammer-or4ng33xp0.md %}) [src](http://smb3.bf0.org/)
 
-## Tompa research
-
-(Copied from Tompa's Pastebin at http://pastebin.com/qrqFaxj2)
+## Tompa research [src](http://pastebin.com/qrqFaxj2)
 
 Early Hammer Probability
 

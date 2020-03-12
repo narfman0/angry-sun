@@ -149,7 +149,9 @@ Boss pattern introduction: <https://www.twitch.tv/videos/313176738>
 Common World 4 warpless fire kills: <https://www.twitch.tv/videos/313176739>  
 Common World 5 warpless fire kills: <https://www.twitch.tv/videos/313176740>  
 
-# [Early hammer (or4ng33xp0)]({{ site.baseurl }}{% link pages/early-hammer-or4ng33xp0.md %}) [src](http://smb3.bf0.org/)
+# [Early hammer (or4ng33xp0)](#early-hammer-or4ng33xp0)
+
+[Landing page]({{ site.baseurl }}{% link pages/early-hammer.md %})
 
 # [Hammer bro movement direction item (Tompa)](#hammer-bro-movement-direction-item-tompa-src) [src](https://pastebin.com/7gZRRiZx)
 
