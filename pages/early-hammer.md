@@ -7,9 +7,7 @@ categories: notes eh earlyhammer early hammer
 
 ## [mfp explanation video](https://youtu.be/2syj3j0Ye_E)
 
-## or4ng33xp0 research
-
-Site dedicated to early hammer manipulation and info here: [smb3.bf0.org](http://smb3.bf0.org/)
+## [Early hammer (or4ng33xp0)]({{ site.baseurl }}{% link pages/early-hammer-or4ng33xp0.md %}) [src](http://smb3.bf0.org/)
 
 ## Tompa research
 
