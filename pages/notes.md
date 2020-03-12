@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Notes (discord pins)"
+title:  "Notes"
 date:   2018-11-23 21:00:00 -0500
 categories: notes
 ---
@@ -149,9 +149,9 @@ Boss pattern introduction: <https://www.twitch.tv/videos/313176738>
 Common World 4 warpless fire kills: <https://www.twitch.tv/videos/313176739>  
 Common World 5 warpless fire kills: <https://www.twitch.tv/videos/313176740>  
 
-# [Early hammer (or4ng33xp0)](#early-hammer-or4ng33xp0)
+# [Early hammer (or4ng33xp0)](#early-hammer-or4ng33xp0) [src]({{ site.baseurl }}{% link pages/early-hammer.md %})
 
-[Landing page]({{ site.baseurl }}{% link pages/early-hammer.md %})
+# [Frog%](#frog_percent) [src]({{ site.baseurl }}{% link pages/frog-percent.md %})
 
 # [Hammer bro movement direction item (Tompa)](#hammer-bro-movement-direction-item-tompa-src) [src](https://pastebin.com/7gZRRiZx)
 
@@ -186,6 +186,8 @@ World 6: HB1 = Hammer       HB2 = Cloud     HB3 = Star
 | 6     | Hammer    | R      | 1 |
 | 6     | Cloud     | L      | 2 |
 | 6     | Star      | R      | 3 |
+
+# [Hitboxes](#hitboxes) [src]({{ site.baseurl }}{% link pages/hitboxes.md %})
 
 # [Lemmy fire kill (Horsedad / ilm)](#lemmy-fire-kill-horsedad--ilm)
 

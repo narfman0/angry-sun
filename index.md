@@ -38,6 +38,8 @@ title: "Angry Sun - Super Mario Brothers 3 runner's guide"
 
 [Frog %]({{ site.baseurl }}{% link pages/frog-percent.md %})
 
+[Hitboxes]({{ site.baseurl }}{% link pages/hitboxes.md %})
+
 [N-Spade Bug]({{ site.baseurl }}{% link pages/nspade-bug.md %})
 
 [Notes]({{ site.baseurl }}{% link pages/notes.md %})
