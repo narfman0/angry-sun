@@ -5,6 +5,10 @@ date:   2018-11-14 17:44:50 -0700
 categories: version differences
 ---
 
+# Version differences (Greenalink) [src](https://youtu.be/ZrGSVH7bZj8)
+
+[![Greenalink youtube video version differences](http://img.youtube.com/vi/ZrGSVH7bZj8/0.jpg)](http://www.youtube.com/watch?v=ZrGSVH7bZj8 "Greenalink nes snes version differences")
+
 # Version differences (Kirua) [src](https://www.speedrun.com/smb3/thread/7pslq)
 
 People request from time to time that the All-Stars version gets its own leaderboard, so I'm making this thread to try and clarify what the main differences are between the various versions of SMB3, how the versions rank in terms of speed, and why we've decided in the past to keep all of them in a unified leaderboard.
