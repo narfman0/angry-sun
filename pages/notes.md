@@ -163,6 +163,10 @@ Common World 5 warpless fire kills: <https://www.twitch.tv/videos/313176740>
 
 # [Frog%](#frog_percent) [src]({{ site.baseurl }}{% link pages/frog-percent.md %})
 
+# [Hammer bro bonus items](#hammer-bro-bonus-items) [src](https://themushroomkingdom.net/codes/smb3)
+
+![Hammer bro bonus items]({{ site.baseurl }}/assets/notes/hammerBroBonus.png)
+
 # [Hammer bro movement direction item (Tompa)](#hammer-bro-movement-direction-item-tompa-src) [src](https://pastebin.com/7gZRRiZx)
 
 After a Hammer Brother has moved, it will always face a specific direction.
