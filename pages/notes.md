@@ -54,6 +54,16 @@ Low jumps are recommended of course, but avoid having under 30 Y speed near the 
  
 Also, landing on the pipe gives a position of 0, or 1 for a frame, and that's usually logged on the 2nd frame.
 
+# [Airship Rewards](#airship-rewards)
+
+* World 1 - P-wing
+* World 2 - Cloud
+* World 3 - Music Box
+* World 4 - P-wing
+* World 5 - Cloud
+* World 6 - P-Wing
+* World 7 - N/A
+
 # [Boom Boom hammer glitch (mitchflowerpower)](#boom-boom-hammer-glitch-mitchflowerpower)
 
 Glitchy boom boom kill [youtube](https://youtu.be/Z_dhOjulIgs)
