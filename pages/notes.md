@@ -212,6 +212,20 @@ but far, far more consistent. To be clear, this is all ILM's creation.
 
 # [maps](#maps) [nesmaps](https://www.nesmaps.com/maps/SuperMarioBrothers3/SuperMarioBrothers3.html)
 
+# [N-Spade card game strat (felo)](#nspade-card-game-strat)
+
+There are 8 solutions to the nspade card game, shown below. By first selecting the
+2nd row, 2nd column, followed by 2nd row, 3rd column, we can know the solution
+within one failure.
+
+![nspade-card-game-solutions]({{ site.baseurl }}/assets/notes/cardSolutions.png)
+
+## "New route" 5-1 pwing music box follow-on strat
+A runner can invest some time identifying the solution then getting two fire flowers.
+The first fire flower can be used after 5-1. This allows for fire kill in 5-F1.
+This second fire flower can be used after wall-jumping 6-9. This allows for 6f3 zip,
+faster 6f3 door entry, boom boom firekill, and 7-2 fast pspeed.
+
 # [Powerup grab/damage frame #s (Tompa)](#powerup-grabdamage-frame-s-tompa-src) [src](https://pastebin.com/sySbjFAd)
 
 Mario -> Super = 47 frames  
