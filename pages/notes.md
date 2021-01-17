@@ -215,16 +215,24 @@ but far, far more consistent. To be clear, this is all ILM's creation.
 # [N-Spade card game strat (felo)](#nspade-card-game-strat)
 
 There are 8 solutions to the nspade card game, shown below. By first selecting the
-2nd row, 2nd column, followed by 2nd row, 3rd column, we can know the solution
-within one failure.
+2nd row, 2nd column, we can know which of 6 boards we are on. Row 2, 1st column
+should then reveal which between the two. Being familiar with board variations can
+aid a runner in a pinch. Or...
 
 ![nspade-card-game-solutions]({{ site.baseurl }}/assets/notes/cardSolutions.png)
 
 ## "New route" 5-1 pwing music box follow-on strat
+
 A runner can invest some time identifying the solution then getting two fire flowers.
 The first fire flower can be used after 5-1. This allows for fire kill in 5-F1.
 This second fire flower can be used after wall-jumping 6-9. This allows for 6f3 zip,
 faster 6f3 door entry, boom boom firekill, and 7-2 fast pspeed.
+
+Variation on above: Starting with the first row, second column, runners will identify
+5 boards or get a fire flower. From here, selecting 1st row 4th column will be flower or
+mushroom. If it is fire flower again, we will target the 2nd row last column and
+last row 2nd to last column for our final flower.
+
 
 # [Powerup grab/damage frame #s (Tompa)](#powerup-grabdamage-frame-s-tompa-src) [src](https://pastebin.com/sySbjFAd)
 
