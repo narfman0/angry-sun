@@ -161,9 +161,9 @@ Common World 5 warpless fire kills: <https://www.twitch.tv/videos/313176740>
 
 # [Early hammer (or4ng33xp0)](#early-hammer-or4ng33xp0) [src]({{ site.baseurl }}{% link pages/early-hammer.md %})
 
-# [Frames things take](#frames-things-take)
+# [Frames by action](#frames-by-action)
 
-| Frames | Thing |
+| Frames | Action |
 | 32 | One HB movement |
 | 17 | One map movement |
 | 16 | Buffered map movement |
