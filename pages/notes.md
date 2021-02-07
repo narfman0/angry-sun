@@ -161,6 +161,14 @@ Common World 5 warpless fire kills: <https://www.twitch.tv/videos/313176740>
 
 # [Early hammer (or4ng33xp0)](#early-hammer-or4ng33xp0) [src]({{ site.baseurl }}{% link pages/early-hammer.md %})
 
+# [Frames things take](#frames-things-take)
+
+| Frames | Thing |
+| 32 | One HB movement |
+| 17 | One map movement |
+| 16 | Buffered map movement |
+| 31 | Flower power up animation |
+
 # [Frog%](#frog_percent) [src]({{ site.baseurl }}{% link pages/frog-percent.md %})
 
 # [Hammer bro bonus items](#hammer-bro-bonus-items) [src](https://themushroomkingdom.net/codes/smb3)
@@ -209,6 +217,8 @@ On a unrelated note, ILM showed me this really cool Lemmy firekill today that
 lets you avoid having to rely on bouncing off his back. It's slightly slower,
 but far, far more consistent. To be clear, this is all ILM's creation.
 <https://www.twitch.tv/videos/281359865>
+
+# [Level Durations](#level-durations) [gdrive SMB3 Times](https://docs.google.com/spreadsheets/d/18W3TCmSC8W1Pc7zgWVCE__EgjsElkyOsgMIycCj0ifs/edit)
 
 # [maps](#maps) [nesmaps](https://www.nesmaps.com/maps/SuperMarioBrothers3/SuperMarioBrothers3.html)
 
