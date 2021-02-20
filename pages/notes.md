@@ -161,6 +161,18 @@ Common World 5 warpless fire kills: <https://www.twitch.tv/videos/313176740>
 
 # [Early hammer (or4ng33xp0)](#early-hammer-or4ng33xp0) [src]({{ site.baseurl }}{% link pages/early-hammer.md %})
 
+# [Firekill savestates (thebagler5)](#firekill-savestates)
+
+[Download zip]({{ site.baseurl }}/assets/notes/firekills.zip)
+
+Create two practice roms named `smb3_firekill_practice` and `smb3_firekill_practice2`,
+and extract the savestates in the nestopia save dir.
+
+`smb3_firekill_practice` 1 = Larry post 1-6 bro fight, 2 = Morton movement of 1, 3 = Wendy,
+4 = Iggy movement of 0, 5 = Morton movement of 2, 6 = Roy shoot first pattern,
+7 = Roy movement of 1 pattern, 9 = Iggy movement of 2
+`smb3_firekill_practice2` 1 = Larry pre 1-6 bro fight, 2 = Lemmy, 5 = Iggy movement of 1
+
 # [Frames by action](#frames-by-action)
 
 | Frames | Action |
