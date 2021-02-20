@@ -21,4 +21,4 @@ This guide for shell placement in the easy setup created by 10ooki:
 
 [Any% guide (Producks)](https://drive.google.com/file/d/0B6EA540L0EBwRFUzN1Y2VTc2SWM/view)
 
-[Retro Game Mechanics in depth explanation](https://youtu.be/fxZuzos7Auk)
+[Retro Game Mechanics in depth explanation (Dotsarecool)](https://youtu.be/fxZuzos7Auk)

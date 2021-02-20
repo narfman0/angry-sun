@@ -5,6 +5,16 @@ date:   2018-11-14 17:44:50 -0700
 categories: resources warpless
 ---
 
+### [Warpless Seminar by mitchflowerpower](https://www.youtube.com/playlist?list=PL3gkkS4FY_-EwqsWUnhcjMLPXWBCqvIzg)
+
+Mitch is currently working on putting together and in-depth talk of different strats for each stage. Still in progress, but the work done so far is incredible, definitely worth checking out regardless of your skill level.
+
+### [SMB3 Fastest Warpless Route Explained by MitchFlowerPower](https://www.youtube.com/watch?v=8iMCt_ZyGqM)
+
+### [Beat SMB3 Warpless in Under an Hour With Basic Strategies by ibuba7](https://www.youtube.com/watch?v=zWekMDbnN6s)
+
+### [SMB3 Warpless Strategy Revolving Around New W5 Routing by Feloliyaya](https://www.speedrun.com/smb3/guide/d9bcu)
+
 ### [Kirua beginner guide for new Warpless runners]({{ site.baseurl }}/{% link pages/warpless-beginner-route-kirua.md %})
 
 (Rest copied from Aweglib's Pastebin: <http://pastebin.com/faZyLxux>)
@@ -30,10 +40,6 @@ Another good tutorial, split up by worlds. Shows individual levels then breaks t
 [Part 3 Worlds 7-8](http://www.twitch.tv/aweglib/v/36520960)
 
 I wanted to make more of a big picture kind of guide, geared more towards players who have already learned strats, but might be still struggling with remembering how to deal with RNG or mistakes during a run. How to do levels quickly is shown as just part of the overall discussion, but this is focused more on handling the route instead of individual level strats.
-
-### [Warpless Seminar by mitchflowerpower](https://www.youtube.com/playlist?list=PL3gkkS4FY_-EwqsWUnhcjMLPXWBCqvIzg)
-
-Mitch is currently working on putting together and in-depth talk of different strats for each stage. Still in progress, but the work done so far is incredible, definitely worth checking out regardless of your skill level.
 
 ### [practice-roms]({{ site.baseurl }}/{% link pages/practice-roms.md %})
 
