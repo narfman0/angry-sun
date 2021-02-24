@@ -326,3 +326,13 @@ The various top speeds you can have in SMB3. The number is how many subpixels yo
 | 64 | Boosted by spinner. |
 
 # [Route Comparison (Lui)](#route-comparison) [src](https://docs.google.com/spreadsheets/d/e/2PACX-1vTzbqZb96uT2mP5Y11l9E_YZdCYWh_hChzw_v05kGzbjUeVm1_ZPpEl2lq0oYa7eikTvw3gqkAZSUS5/pubhtml#)
+
+# [Zip/clip windows (mfp)](#zip-windows)
+
+Looking for feedback: the window for 7-1 standing appears much smaller than 7-6 standing?
+
+| Level | Frames | Notes |
+| 6-9 | 0-5 | small mario, 2 frame window |
+| 7-1 | 14-15 | standing clip |
+| 7-1 | 0-6 | duck clip |
+| 7-6 | 3-10 | standing clip |
