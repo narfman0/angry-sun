@@ -234,7 +234,7 @@ but far, far more consistent. To be clear, this is all ILM's creation.
 
 # [maps](#maps) [nesmaps](https://www.nesmaps.com/maps/SuperMarioBrothers3/SuperMarioBrothers3.html)
 
-# [N-Spade card game(#nspade-card-game-strat)
+# [N-Spade card game](#nspade-card-game-strat)
 
 There are 8 solutions to the nspade card game, shown below.
 
