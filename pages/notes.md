@@ -191,17 +191,6 @@ and extract the savestates in the nestopia save dir.
 
 After a Hammer Brother has moved, it will always face a specific direction.
 This way you can tell which HB that has which item.
- 
-HB1: Facing Right  
-HB2: Facing Left  
-HB3: Facing Right  
- 
-World 1: HB1 = Star  
-World 2: HB1 = Music Box    HB2 = Hammer    HB3 = Flute  
-World 3: HB1 = Star         HB2 = Hammer  
-World 4: HB1 = P-Wing       HB2 = Star      HB3 = Cloud  
-World 5: HB1 = Star         HB2 = Music Box HB3 = P-Wing  
-World 6: HB1 = Hammer       HB2 = Cloud     HB3 = Star  
 
 | World | Item      | Facing | # |
 |-------|-----------|--------|---|
@@ -209,8 +198,8 @@ World 6: HB1 = Hammer       HB2 = Cloud     HB3 = Star
 | 2     | Music Box | R      | 1 |
 | 2     | Hammer    | L      | 2 |
 | 2     | Flute     | R      | 3 |
-| 3     | Star      | R      | 1 |
-| 3     | Hammer    | L      | 2 |
+| 3     | Star      | L      |   |
+| 3     | Hammer    | R      |   |
 | 4     | P-Wing    | R      | 1 |
 | 4     | Star      | L      | 2 |
 | 4     | Cloud     | R      | 3 |
