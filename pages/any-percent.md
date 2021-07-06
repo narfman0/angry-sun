@@ -15,6 +15,8 @@ This guide for shell placement in the easy setup created by 10ooki:
 
 [Text guide for advanced setup]({{ site.baseurl }}{% link pages/any-percent-text.md %}).
 
+[Intermediate/Advanced Wrong Warp Setups Tutorial (Czikubi)](https://www.youtube.com/watch?v=S4XTwZUqtO4)
+
 [Any% guide (Kirua)](https://www.twitch.tv/videos/172716898)
 
 [Any% tutorial by Poo (GrandPOOBear)](https://youtu.be/Y4X6nASGPHU)
