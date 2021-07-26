@@ -54,6 +54,8 @@ Low jumps are recommended of course, but avoid having under 30 Y speed near the 
  
 Also, landing on the pipe gives a position of 0, or 1 for a frame, and that's usually logged on the 2nd frame.
 
+# [7-7 zip strategy guide (Lui)](#7-7-zip-strategy-guide) [src]({{ site.baseurl }}{% link pages/7-7-zip-strategy-guide.md %})
+
 # [Airship Rewards](#airship-rewards)
 
 * World 1 - P-wing
