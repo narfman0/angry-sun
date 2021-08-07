@@ -307,6 +307,37 @@ The various top speeds you can have in SMB3. The number is how many subpixels yo
 | 63 | Sliding downhill. |
 | 64 | Boosted by spinner. |
 
+# [Reset to clear ram (e.g. wrong warp) (kabaudio)](#reset-clear-ram)
+
+Do you have to hard reset/power off for several seconds to get wrong warp? What normally temporal values stick around in reset?
+
+If playing on original console, certain crashes can actually fill the stack (Ram $0100 -> $01FF) with garbage values. 
+Because this particular part of ram is NEVER cleared by the game's reset logic (only the stack pointer is initialised to FF), nor any ram clear routines (they always leave the stack), it means that if you get a crash that does change the stack ram, you can end up being spat out of the glitched pipe the wrong direction, because it actually reads part of the stack as tile data for the glitch pipe as Mario travels down it.
+
+Certain values tell the pipe logic to change direction like left, right, up down etc (only on vertical pipe maze levels which have bendy pipes)
+
+So if your unlucky, you might be on a PB paced run, go down the pipe, and be spat back out the top. 
+
+Since resetting on console doesn't help clear the stack, the easiest way to do so is to power off for a few seconds, then power back on, as this allows the Ram values to decay from lack of power, and thankfully the power on state appears to be in a way that doesn't affect the pipe glitch (but no one knows what it actually starts on - as its uninitialised)
+
+This is never a problem on emulator, as emulators generally fill all ram at power on / reset with
+| $0000 | 0 0 0 0 F F F F 0 0 0 0 F F F F |
+| $0010 | 0 0 0 0 F F F F 0 0 0 0 F F F F |
+| etc | etc |
+
+You only really need to do a hard power off and on sequence after a crash. 
+
+Examples on console:
+
+[Zikubi doing all forts wrong warp, clip here](https://clips.twitch.tv/NaiveSmilingPelicanCoolStoryBob):
+
+His old console actually had a very finicky ram chip that would even hold bad values after power off and on. We found an ice pack to lower the temperature of the ram chip helped (power on ram states can be affected by temperature)
+
+Also [happened to Kirua, clip here](https://www.twitch.tv/kirua/clip/ExquisiteTenuousKathyTriHard)
+
+I assume you'll be attempting the shell throw setup next so prepare for plenty of crashes :wink:
+If you need any other info feel free to DM me.
+
 # [Route Comparison (Lui)](#route-comparison) [src](https://docs.google.com/spreadsheets/d/e/2PACX-1vTzbqZb96uT2mP5Y11l9E_YZdCYWh_hChzw_v05kGzbjUeVm1_ZPpEl2lq0oYa7eikTvw3gqkAZSUS5/pubhtml#)
 
 # [Zip/clip windows (mfp)](#zip-windows)
