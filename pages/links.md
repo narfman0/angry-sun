@@ -9,4 +9,9 @@ categories: links romhacking randomizer southbird discord speedrun
 * [Route Randomizer](https://sites.google.com/site/smb3randomizer/home)
 * [Southbird disassembly](https://sonicepoch.com/sm3mix/disassembly.html)
 * [Super Mario Bros Discord](https://discord.gg/5CFbEDh)
-* [Speedrun.com SMB3](http://www.speedrun.com/smb3)
+
+## Leaderboards
+
+* Official: [Speedrun.com SMB3](http://www.speedrun.com/smb3)
+* Replica: [smb3-leaderboards](https://narfman0.github.io/smb3-leaderboards/)
+* Replica: [gsheets (TEEX88)](https://docs.google.com/spreadsheets/d/1j5MTbh14h6Rx1zXJpIop5negFPi6OvLts0KFJGJlh9k/edit#gid=677991048)
