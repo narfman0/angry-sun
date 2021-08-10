@@ -27,9 +27,13 @@ should yield the target practice rom.
   - [rom link](https://cdn.discordapp.com/attachments/121413022731337732/565682523091501056/smb3practice_7-7.nes)
   - [patch link]({{ site.baseurl }}/assets/patches/smb3practice_7-7.ips)
 
-- Lui's 7-1 wrong warp pracitce rom
+- Lui's 7-1 wrong warp practice rom
   - [patch link]({{ site.baseurl }}/assets/patches/smb3ww_dotsless.ips)
   smb3ww_dotsless.ips
+
+- Zikubi's 7-1 wrong warp practice rom
+  - [patch link]({{ site.baseurl }}/assets/patches/smb3practice_7-1.ips)
+  smb3practice_7-1.ips
 
 ## Alternatives
 
