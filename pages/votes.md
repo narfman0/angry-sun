@@ -5,8 +5,6 @@ date:   2021-10-06 13:30:00 -0500
 categories: votes
 ---
 
-# Votes
-
 ## N-Card glitch in SMB3 100% [src](https://discord.com/channels/599131748143464459/599134097721524224/841878068381483038)
 
 React with :thumbsup: if you are in favor of allowing the N-Card glitch in SMB3 100%.
