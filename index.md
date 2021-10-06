@@ -16,6 +16,8 @@ title: "Angry Sun - Super Mario Brothers 3 runner's guide"
 
 [Version Differences]({{ site.baseurl }}{% link pages/version-differences.md %})
 
+[Votes]({{ site.baseurl }}{% link pages/votes.md %})
+
 ## Resources/guides/tutorials
 
 [100%]({{ site.baseurl }}{% link pages/hundo-resources.md %})

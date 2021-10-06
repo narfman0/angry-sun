@@ -344,6 +344,10 @@ If you need any other info feel free to DM me.
 
 # [Route Comparison (Lui)](#route-comparison) [src](https://docs.google.com/spreadsheets/d/e/2PACX-1vTzbqZb96uT2mP5Y11l9E_YZdCYWh_hChzw_v05kGzbjUeVm1_ZPpEl2lq0oYa7eikTvw3gqkAZSUS5/pubhtml#)
 
+# [Votes](#votes)
+
+See [votes]({{ site.baseurl }}{% link pages/votes.md %}) for details.
+
 # [Zip/clip windows (mfp)](#zip-windows)
 
 Looking for feedback: the window for 7-1 standing appears much smaller than 7-6 standing?
