@@ -13,6 +13,8 @@ Mitch is currently working on putting together and in-depth talk of different st
 
 ### [Beat SMB3 Warpless in Under an Hour With Basic Strategies by ibuba7](https://www.youtube.com/watch?v=zWekMDbnN6s)
 
+### [smb3 any% warpless tutorial by KoBrahJer](https://youtube.com/playlist?list=PLWQf4Jey8Oj4funR49Zw3AHKnJ1FmtDEQ)
+
 ### [SMB3 Warpless Strategy Revolving Around New W5 Routing by Feloliyaya]({{ site.baseurl }}/{% link pages/warpless-51pwing-felo.md %})
 
 ### [Kirua beginner guide for new Warpless runners]({{ site.baseurl }}/{% link pages/warpless-beginner-route-kirua.md %})
