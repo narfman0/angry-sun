@@ -26,7 +26,7 @@ doesn't move, the subpixel is incrementing higher. We want a low subpixel value 
 move the single pixel, this means the subpixel is very low with only whatever remainder is left after
 incrementing Mario's x position.
 
-# [7-7 practice rom info (Lui)](#7-7-practice-rom-info) [src](https://pastebin.com/kkpta9JH) [rom patch link]({{ site.baseurl }}/assets/patches/smb3practice_7-7.ips)
+# [7-7 practice rom info (Lui)](#7-7-practice-rom-info-lui-src-rom-patch-link) [src](https://pastebin.com/kkpta9JH) [rom patch link]({{ site.baseurl }}/assets/patches/smb3practice_7-7.ips)
 
 HUD features: ![Lui description]({{ site.baseurl }}/assets/notes/7-7epic.png)
  
@@ -54,7 +54,7 @@ Low jumps are recommended of course, but avoid having under 30 Y speed near the 
  
 Also, landing on the pipe gives a position of 0, or 1 for a frame, and that's usually logged on the 2nd frame.
 
-# [7-7 zip strategy guide (Lui)](#7-7-zip-strategy-guide) [src]({{ site.baseurl }}{% link pages/7-7-zip-strategy-guide.md %})
+# [7-7 zip strategy guide (Lui)](#7-7-zip-strategy-guide-lui-src) [src]({{ site.baseurl }}{% link pages/7-7-zip-strategy-guide.md %})
 
 # [Airship Rewards](#airship-rewards)
 
@@ -82,7 +82,7 @@ When two fireballs hit on the same frame, it takes the boom boom to 31 hitpoints
 game never sees the 32 hitpoints. You then have to either stomp on him 3 times or hit him
 31 more times to cause the upside down orb overkill.
 
-# [Boss firekills [warpless] (teex)](#boss-firekills)
+# [Boss firekills [warpless] (teex)](#boss-firekills-warpless-teex)
 
 [src](https://docs.google.com/spreadsheets/d/1sTi9g2cxaNCVkCTQ-Ez4mKshAD7zTKG3uK1pb1ys6oc/edit#gid=0)
 
@@ -165,9 +165,9 @@ of "Jump Delay" = 202.
 I did some manual memory editing on the TAS, and a value of 198 (0xC6) was still good enough, due
 to Bowser being in the air from a little hop when Timer3 hit 0.
 
-# [Early hammer (or4ng33xp0)](#early-hammer-or4ng33xp0) [src]({{ site.baseurl }}{% link pages/early-hammer.md %})
+# [Early hammer (or4ng33xp0)](#early-hammer-or4ng33xp0-src) [src]({{ site.baseurl }}{% link pages/early-hammer.md %})
 
-# [Firekill savestates (thebagler5)](#firekill-savestates)
+# [Firekill savestates (thebagler5)](#firekill-savestates-thebagler5)
 
 [Download zip]({{ site.baseurl }}/assets/notes/firekills.zip)
 
@@ -216,7 +216,7 @@ This way you can tell which HB that has which item.
 | 6     | Cloud     | L      | 2 |
 | 6     | Star      | R      | 3 |
 
-# [Hitboxes](#hitboxes) [src]({{ site.baseurl }}{% link pages/hitboxes.md %})
+# [Hitboxes](#hitboxes-src) [src]({{ site.baseurl }}{% link pages/hitboxes.md %})
 
 # [Lemmy fire kill (Horsedad / ilm)](#lemmy-fire-kill-horsedad--ilm)
 
@@ -229,7 +229,7 @@ but far, far more consistent. To be clear, this is all ILM's creation.
 
 # [maps](#maps) [nesmaps](https://www.nesmaps.com/maps/SuperMarioBrothers3/SuperMarioBrothers3.html)
 
-# [N-Spade card game](#nspade-card-game-strat)
+# [N-Spade card game](#n-spade-card-game)
 
 There are 8 solutions to the nspade card game, shown below.
 
@@ -251,7 +251,7 @@ Leaf  -> Super = 23 frames
 Super -> Fire  = 30 frames  
 Fire  -> Super = 23 frames  
 
-# [Pspeed notes (Tompa)](#pspeed-notes-tompa) [src](https://pastebin.com/RFss7BXN) 
+# [Pspeed notes (Tompa)](#pspeed-notes-tompa-src) [src](https://pastebin.com/RFss7BXN) 
 
 Note: old notes here, I think completely redundant [src](https://pastebin.com/TdUqKgcx)
 
@@ -287,7 +287,7 @@ If you land when the 256 timer is going, it will reset to 0. With the exception 
  
 With Racoon/Tanooki Mario, the 256 timer works differently. Here it is not reset if you land on ground, but will continue counting down until it hits 0. If you are in midair when this happens, you won't keep your speed as you would without the a tail. The speed you'll end up with depends on a couple of factors. The speed frame rule, if you jumped and for how long and if your speed is above or below 40.
 
-# [Max speeds (Tompa)](#pspeed-notes-tompa) [src](https://pastebin.com/cVFCvpbf)
+# [Max speeds (Tompa)](#max-speeds-tompa-src) [src](https://pastebin.com/cVFCvpbf)
 
 The various top speeds you can have in SMB3. The number is how many subpixels you move/frame. 16 subpixels make up a whole pixel.
 
@@ -311,7 +311,7 @@ The various top speeds you can have in SMB3. The number is how many subpixels yo
 | 63 | Sliding downhill. |
 | 64 | Boosted by spinner. |
 
-# [Reset to clear ram (e.g. wrong warp) (kabaudio)](#reset-clear-ram)
+# [Reset to clear ram (e.g. wrong warp) (kabaudio)](#reset-to-clear-ram-eg-wrong-warp-kabaudio)
 
 Do you have to hard reset/power off for several seconds to get wrong warp? What normally temporal values stick around in reset?
 
@@ -342,13 +342,13 @@ Also [happened to Kirua, clip here](https://www.twitch.tv/kirua/clip/ExquisiteTe
 I assume you'll be attempting the shell throw setup next so prepare for plenty of crashes :wink:
 If you need any other info feel free to DM me.
 
-# [Route Comparison (Lui)](#route-comparison) [src](https://docs.google.com/spreadsheets/d/e/2PACX-1vTzbqZb96uT2mP5Y11l9E_YZdCYWh_hChzw_v05kGzbjUeVm1_ZPpEl2lq0oYa7eikTvw3gqkAZSUS5/pubhtml#)
+# [Route Comparison (Lui)](#route-comparison-lui-src) [src](https://docs.google.com/spreadsheets/d/e/2PACX-1vTzbqZb96uT2mP5Y11l9E_YZdCYWh_hChzw_v05kGzbjUeVm1_ZPpEl2lq0oYa7eikTvw3gqkAZSUS5/pubhtml#)
 
 # [Votes](#votes)
 
 See [votes]({{ site.baseurl }}{% link pages/votes.md %}) for details.
 
-# [Zip/clip windows (mfp)](#zip-windows)
+# [Zip/clip windows (mfp)](#zipclip-windows-mfp)
 
 Looking for feedback: the window for 7-1 standing appears much smaller than 7-6 standing?
 
