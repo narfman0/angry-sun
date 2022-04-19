@@ -14,6 +14,8 @@ a death.
 
 # [6-10 P-Speed Fire Grabs from Big Mario (2 methods) (Kirua)](#6-10-p-speed-fire-grabs-from-big-mario-2-methods-kirua-src) [src](https://www.twitch.tv/videos/105484752)
 
+# [6F3 clip (Mizumaririn)](#6f3-clip-mizumaririn-src) [src](https://docs.google.com/spreadsheets/d/1ntt5kTcjrLt6tFTAmKz_sZkTi9540AFQqmCiwlyVEr8/edit#gid=0)
+
 # [7-1 subpixel manipulation](#7-1-subpixel-manipulation)
 
 [Lui video](https://youtu.be/69ykM4gXbsA)
