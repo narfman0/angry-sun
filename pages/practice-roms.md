@@ -7,9 +7,21 @@ categories: practice roms
 
 ## ROMs
 
-There are three (current) variants of our current practice ROM. Provided are 1. rom link - direct links to the rom or information about it
-and 2. patch link - the IPS (binary) patch file based against the (common) PRG0 SMB3 .nes file. Running Lunar IPS to patch the PRG0 rom
-should yield the target practice rom.
+There are three (current) variants of our current practice ROM. Provided are
+
+1. rom link - direct links to the rom or information about it
+2. patch link - the IPS (binary) patch file based against the (common) PRG0 SMB3 .nes file.
+Running [RomPatcher.js](https://www.marcrobledo.com/RomPatcher.js/) or [Lunar IPS](https://www.fusoya.eludevisibility.org/lips/)
+to patch the PRG0 rom should yield the target practice rom.
+
+### Current
+
+- Lui has extended fcoughlin and dotsarecool's work. Included in the zip are
+patches for regular practice, pspeed with dots, and a subpixel practice rom
+patch for 7-1/7-6/7-7/7-9
+  - [patch link]({{ site.baseurl }}/assets/patches/smb3practice_20220313.zip)
+
+### Historical patches
 
 - fcoughlin created the standard version, which hard-codes debug mode (start screen lives and stage select, select button cycles powerups, full infinite world map items) and includes hammer brother delete and stage reentry.
   - [rom link](https://www.dropbox.com/s/yqgl5k0qi9si5en/Super%20Mario%203%20Practice%20ROM.nes?dl=0)
