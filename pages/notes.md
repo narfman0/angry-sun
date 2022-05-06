@@ -189,7 +189,7 @@ and extract the savestates in the nestopia save dir.
 | 16 | Buffered map movement |
 | 31 | Flower power up animation |
 
-# [Frog%](#frog_percent) [src]({{ site.baseurl }}{% link pages/frog-percent.md %})
+# [Frog%](#frog_src) [src]({{ site.baseurl }}{% link pages/frog-percent.md %})
 
 # [Game Genie Codes](#game-genie-codes)
 
@@ -206,7 +206,7 @@ As far as I know these are the 3 best Game Genie codes to use if you want to pra
 | ZPKUVAKX | Multi Colored Levels, neat color pallet change |
 | OEOZGEGT | Turns Flying Koopas Into Hammer Bros. When Stomped |
 
-# [Hammer bro bonus items](#hammer-bro-bonus-items) [src](https://themushroomkingdom.net/codes/smb3)
+# [Hammer bro bonus items](#hammer-bro-bonus-items-src) [src](https://themushroomkingdom.net/codes/smb3)
 
 ![Hammer bro bonus items]({{ site.baseurl }}/assets/notes/hammerBroBonus.png)
 
