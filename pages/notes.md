@@ -191,6 +191,21 @@ and extract the savestates in the nestopia save dir.
 
 # [Frog%](#frog_percent) [src]({{ site.baseurl }}{% link pages/frog-percent.md %})
 
+# [Game Genie Codes](#game-genie-codes)
+
+KKKZSPIU YPXXLVGE AEUGNSSL
+
+As far as I know these are the 3 best Game Genie codes to use if you want to practice on console. I don't know exactly which code is which, but it gives you access to a world select and life counter on the opening screen, (Up/Down to change world on the left, A to add on 5 more lives) gives you a full inventory with the ability to reuse items, as well as letting you re-enter normal stages. Forts, airships, and odd levels like the pyramid are unable to be re-enter after completion, so you'll have to suicide in the level or reset to get back into them.
+
+| Code     | Effect                 |
+| OOKXGLIE | PUPRLE SWIMMING RACOON |
+| OXKZELSX | Super speed running    |
+| EAYIXX   | Mario will die in one hit, regardless of what form he’s in. Do not add ending spaces. |
+| SLXPLOVS | Infinite lives         |
+| AASZAZYP | Everyone Throws Fireballs [Except Hammer Mario] |
+| ZPKUVAKX | Multi Colored Levels, neat color pallet change |
+| OEOZGEGT | Turns Flying Koopas Into Hammer Bros. When Stomped |
+
 # [Hammer bro bonus items](#hammer-bro-bonus-items) [src](https://themushroomkingdom.net/codes/smb3)
 
 ![Hammer bro bonus items]({{ site.baseurl }}/assets/notes/hammerBroBonus.png)
@@ -345,6 +360,12 @@ I assume you'll be attempting the shell throw setup next so prepare for plenty o
 If you need any other info feel free to DM me.
 
 # [Route Comparison (Lui)](#route-comparison-lui-src) [src](https://docs.google.com/spreadsheets/d/e/2PACX-1vTzbqZb96uT2mP5Y11l9E_YZdCYWh_hChzw_v05kGzbjUeVm1_ZPpEl2lq0oYa7eikTvw3gqkAZSUS5/pubhtml#)
+
+# [SMB3 RTA Wiki](#smb3-rta-wiki)
+
+[smb3rta.wikia.com](http://smb3rta.wikia.com/wiki/SMB3RTA_Wiki)
+ 
+Slightly outdated, but still has some decent information. I might look into getting this more up-to-date as the days go on.
 
 # [Votes](#votes)
 

@@ -46,14 +46,3 @@ I wanted to make more of a big picture kind of guide, geared more towards player
 ### [practice-roms]({{ site.baseurl }}/{% link pages/practice-roms.md %})
 
 For roms/hacks/patches to preexisting roms (disable deaths, no card game, etc), and check Lui's practice rom for other features.
-
-### Game Genie Codes for Console
-
-KKKZSPIU YPXXLVGE AEUGNSSL
-
-As far as I know these are the 3 best Game Genie codes to use if you want to practice on console. I don't know exactly which code is which, but it gives you access to a world select and life counter on the opening screen, (Up/Down to change world on the left, A to add on 5 more lives) gives you a full inventory with the ability to reuse items, as well as letting you re-enter normal stages. Forts, airships, and odd levels like the pyramid are unable to be re-enter after completion, so you'll have to suicide in the level or reset to get back into them.
- 
-### [SMB3 RTA Wiki](http://smb3rta.wikia.com/wiki/SMB3RTA_Wiki)
- 
-Slightly outdated, but still has some decent information. I might look into getting this more up-to-date as the days go on.
- 
