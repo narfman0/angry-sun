@@ -49,6 +49,17 @@ patch for 7-1/7-6/7-7/7-9
 
 ## Alternatives
 
+### [SMB3 Race Edition](#smb3-race-edition)
+
+MaCobra made a race edition, which is also a candidate for a future tournament rom.
+It is speedrunners edition minus autoscroller edits, or, nohands + HB movements of one.
+
+Download [v1.7 PRG0 version here]({{ site.baseurl }}/assets/patches/smb3_race_edition_v1.7_PRG0.ips)
+
+### [Romhacking SMB3](http://www.romhacking.net/games/750/)
+
+### [Route Randomizer](https://sites.google.com/site/smb3randomizer/home)
+
 ### [SMB3 bingo (mitchflowerpower)](#bingo)
 
 this should be the most updated ver of bingo with the cards link [Super_Mario_Bros._3_USA_Rev_9.nes](https://cdn.discordapp.com/attachments/121413022731337732/396115380076281859/Super_Mario_Bros._3_USA_Rev_9.nes)
@@ -58,10 +69,6 @@ Instructions: https://bingobaker.com/view/1451346
 Click the play online to have your card, window capture in OBS or whatever it is that you use
 
 Refresh and or edit link will change the card to setup for a new one.
-
-### [Romhacking SMB3](http://www.romhacking.net/games/750/)
-
-### [Route Randomizer](https://sites.google.com/site/smb3randomizer/home)
 
 ## Notes
 
@@ -76,4 +83,6 @@ Some generic patches recommended for all of the above
 - nocards -removes all random card encounters, normally triggered every time a players score passes a multiple of 80000.
   - [patch link](https://github.com/narfman0/romhacks/blob/master/Super%20Mario%20Bros%203%20nocards.ips?raw=true)
 
-- others here: [github narfman0/romhacks](https://github.com/narfman0/romhacks)
+- MaCobra misc patches [github macobra/smb3-hacks](https://github.com/macobra52/smb3-hacks)
+
+- narfman0 misc patches [github narfman0/romhacks](https://github.com/narfman0/romhacks)
