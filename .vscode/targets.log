@@ -1,0 +1,305 @@
+make.exe all --print-data-base --no-builtin-variables --no-builtin-rules --question
+make: *** No rule to make target 'all'.  Stop.
+
+# GNU Make 4.3
+# Built for Windows32
+# Copyright (C) 1988-2020 Free Software Foundation, Inc.
+# License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+# This is free software: you are free to change and redistribute it.
+# There is NO WARRANTY, to the extent permitted by law.
+
+# Make data base, printed on Sun Jul 17 20:15:06 2022
+
+# Variables
+
+# environment
+FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
+# environment
+SYSTEMDRIVE = C:
+# environment
+JAVA_HOME = C:\Program Files\Java\jdk-17
+# environment
+TWITTER_CONSUMER_SECRET = joea5D7xUiXdWDGneezRMlKegWEqIA1Dc97JAcLdz9vMbKVLoQ
+# environment
+LC_ALL = C
+# environment
+USERPROFILE = C:\Users\narfman0
+# environment
+VBOX_MSI_INSTALL_PATH = C:\Program Files\Oracle\VirtualBox\
+# environment
+LOCALAPPDATA = C:\Users\narfman0\AppData\Local
+# environment
+VSCODE_CWD = C:\Program Files\Microsoft VS Code
+# environment
+CHOCOLATEYINSTALL = C:\ProgramData\chocolatey
+# environment
+SYSTEMROOT = C:\WINDOWS
+# environment
+TWITTER_ACCESS_SECRET = xJWWeyHElPjjFP5CACFIyNnY9ha9fcIUZhAdvOnMlSQ5U
+# environment
+PROCESSOR_LEVEL = 25
+# environment
+PSMODULEPATH = ;C:\Users\narfman0\AppData\Local\Google\Cloud SDK\google-cloud-sdk\platform\PowerShell
+# default
+MAKE_COMMAND := C:/ProgramData/chocolatey/lib/make/tools/install/bin/make.exe
+# environment
+GPU_FORCE_64BIT_PTR = 0
+# automatic
+@D = $(patsubst %/,%,$(patsubst %\,%,$(dir $@)))
+# environment
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_17692_QXTHSXABVYDEEPUS
+# environment
+FPS_BROWSER_USER_PROFILE_STRING = Default
+# environment
+VSCODE_HANDLES_UNCAUGHT_ERRORS = true
+# default
+.VARIABLES := 
+# automatic
+%D = $(patsubst %/,%,$(patsubst %\,%,$(dir $%)))
+# environment
+GPU_MAX_HEAP_SIZE = 100
+# automatic
+^D = $(patsubst %/,%,$(patsubst %\,%,$(dir $^)))
+# automatic
+%F = $(notdir $%)
+# environment
+VSCODE_CODE_CACHE_PATH = C:\Users\narfman0\AppData\Roaming\Code\CachedData\92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9
+# environment
+LANG = C
+# default
+.LOADED := 
+# environment
+TMP = C:\Users\narfman0\AppData\Local\Temp
+# default
+.INCLUDE_DIRS = .
+# environment
+PROCESSOR_ARCHITEW6432 = AMD64
+# makefile
+MAKEFLAGS = pqrR
+# environment
+PYTHON_HOME = C:\Users\narfman0\AppData\Local\Programs\Python\Python39
+# environment
+ONEDRIVE = C:\Users\narfman0\OneDrive
+# makefile
+CURDIR := d:/workspace/angry-sun
+# environment
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
+# automatic
+*D = $(patsubst %/,%,$(patsubst %\,%,$(dir $*)))
+# environment
+PROGRAMFILES = C:\Program Files (x86)
+# environment
+MFLAGS = -pqrR
+# default
+.SHELLFLAGS := -c
+# environment
+ETHEREUM_SOCKET = \\.\pipe\geth.ipc
+# environment
+COMMONPROGRAMW6432 = C:\Program Files\Common Files
+# automatic
++D = $(patsubst %/,%,$(patsubst %\,%,$(dir $+)))
+# makefile (from 'Makefile', line 1)
+MAKEFILE_LIST := Makefile
+# automatic
+@F = $(notdir $@)
+# environment
+VSCODE_PID = 17692
+# automatic
+?D = $(patsubst %/,%,$(patsubst %\,%,$(dir $?)))
+# automatic
+*F = $(notdir $*)
+# environment
+GPU_SINGLE_ALLOC_PERCENT = 100
+# automatic
+<D = $(patsubst %/,%,$(patsubst %\,%,$(dir $<)))
+# environment
+VSCODE_NLS_CONFIG = {"locale":"en-gb","availableLanguages":{},"_languagePackSupport":true}
+# environment
+JD2_HOME = C:\Users\narfman0\AppData\Local\JDownloader 2.0
+# default
+MAKE_HOST := Windows32
+# environment
+GPU_USE_SYNC_OBJECTS = 1
+# environment
+PROGRAMDATA = C:\ProgramData
+# default
+SHELL := sh.exe
+# environment
+HOMEPATH = \Users\narfman0
+# default
+MAKECMDGOALS := all
+# environment
+DRIVERDATA = C:\Windows\System32\Drivers\DriverData
+# environment
+COMSPEC = C:\WINDOWS\system32\cmd.exe
+# environment
+WINDIR = C:\WINDOWS
+# environment
+GPU_MAX_ALLOC_PERCENT = 100
+# environment
+MAKELEVEL := 0
+# default
+MAKE = $(MAKE_COMMAND)
+# environment
+PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\Java\jdk1.8.0_191\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\ffmpeg-20160813-ceab04f-win64-static\bin;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Calibre2\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft VS Code\bin;C:\Program Files (x86)\platform-tools;C:\ProgramData\chocolatey\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Geth;C:\Program Files\nodejs\;C:\Users\narfman0\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\narfman0\AppData\Local\Programs\Python\Python39\;C:\Users\narfman0\.cargo\bin;C:\Users\narfman0\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Microsoft VS Code\bin;C:\Users\narfman0\AppData\Roaming\Python\Python37\Scripts;C:\Program Files (x86)\GnuWin32\bin;C:\Users\narfman0\AppData\Local\Google\Cloud SDK\google-cloud-sdk\bin;C:\Users\narfman0\AppData\Local\watchman-v2020.12.14.00-windows\bin;C:\Program Files\Bitcoin\daemon;C:\Users\narfman0\AppData\Roaming\npm;D:\dl;C:\Users\narfman0\.dotnet\tools
+# environment
+COMPUTERNAME = COFFEE
+# default
+MAKEFILES := 
+# automatic
+^F = $(notdir $^)
+# environment
+PROMPT = $P$G
+# environment
+CHOCOLATEYLASTPATHUPDATE = 132186506921388376
+# environment
+LOGONSERVER = \\COFFEE
+# environment
+USERNAME = narfman0
+# environment
+COMMONPROGRAMFILES = C:\Program Files (x86)\Common Files
+# environment
+RUST_HOME = C:\Users\narfman0\.cargo\bin
+# automatic
+?F = $(notdir $?)
+# environment
+PROGRAMW6432 = C:\Program Files
+# environment
+PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+# environment
+TWITTER_ACCESS_TOKEN = 36650845-86GH8dcRGcsypFgAuVFlQ3jJP4NjVzHaDwVlkVBWn
+# automatic
++F = $(notdir $+)
+# environment
+ORIGINAL_XDG_CURRENT_DESKTOP = undefined
+# environment
+USERDOMAIN = COFFEE
+# 'override' directive
+GNUMAKEFLAGS := 
+# environment
+OS = Windows_NT
+# makefile
+.DEFAULT_GOAL := build
+# default
+MAKE_VERSION := 4.3
+# environment
+GOOGLE_CLOUD_PROJECT = project1
+# environment
+PROGRAMFILES(X86) = C:\Program Files (x86)
+# environment
+USERDOMAIN_ROAMINGPROFILE = COFFEE
+# environment
+NUMBER_OF_PROCESSORS = 24
+# environment
+PUBLIC = C:\Users\Public
+# environment
+JAVA_PATH = C:\Program Files\Java\jdk-17
+# environment
+MOZ_PLUGIN_PATH = C:\Program Files (x86)\Foxit Software\Foxit Reader\plugins\
+# environment
+APPDATA = C:\Users\narfman0\AppData\Roaming
+# environment
+HOMEDRIVE = C:
+# environment
+TWITTER_CONSUMER_KEY = gHggAzv8cIcp7ShDotBgf7SCI
+# environment
+PROCESSOR_ARCHITECTURE = x86
+# environment
+GOOGLE_APPLICATION_CREDENTIALS = C:\Users\narfman0\gcloud\gcp_cdot_test.json
+# environment
+VSCODE_AMD_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
+# environment
+COMMONPROGRAMFILES(X86) = C:\Program Files (x86)\Common Files
+# environment
+ELECTRON_RUN_AS_NODE = 1
+# environment
+TEMP = C:\Users\narfman0\AppData\Local\Temp
+# environment
+VSCODE_IPC_HOOK = \\.\pipe\a8c4ab527088b9a0662d98cbd86921a0-1.69.0-main-sock
+# default
+.RECIPEPREFIX := 
+# automatic
+<F = $(notdir $<)
+# default
+SUFFIXES := 
+# environment
+ALLUSERSPROFILE = C:\ProgramData
+# environment
+SESSIONNAME = Console
+# default
+.FEATURES := target-specific order-only second-expansion else-if shortest-stem undefine oneshell nocomment grouped-target extra-prereqs archives jobserver output-sync load
+# environment
+PROCESSOR_REVISION = 2100
+# environment
+PROCESSOR_IDENTIFIER = AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD
+# variable set hash-table stats:
+# Load=110/1024=11%, Rehash=0, Collisions=11/137=8%
+
+# Pattern-specific Variable Values
+
+# No pattern-specific variable values.
+
+# Directories
+
+# . (key d:/workspace/angry-sun, mtime 1658103306): 17 files, no impossibilities.
+
+# 17 files, no impossibilities in 1 directories.
+
+# Implicit Rules
+
+# No implicit rules.
+
+# Files
+
+# Not a target:
+Makefile:
+#  Implicit rule search has been done.
+#  Last modified 2018-11-25 15:38:39
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+.DEFAULT:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has  
+not been updated.
+
+init:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 5):
+	bundle install
+
+# Not a target:
+all:
+#  Command line target.
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has not been updated.
+
+build:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 2):
+	bundle exec jekyll serve
+
+# files hash-table stats:
+# Load=6/1024=1%, Rehash=0, Collisions=0/16=0%
+# VPATH Search Paths
+
+# No 'vpath' search paths.
+
+# No general ('VPATH' variable) search path.
+
+# strcache buffers: 1 (0) / strings = 22 / storage = 171 B / avg = 7 B
+# current buf: size = 8174 B / used = 171 B / count = 22 / avg = 7 B
+
+# strcache performance: lookups = 28 / hit rate = 21%
+# hash-table stats:
+# Load=22/8192=0%, Rehash=0, Collisions=0/28=0%
+# Finished Make data base on Sun Jul 17 20:15:06 2022
+
+ 

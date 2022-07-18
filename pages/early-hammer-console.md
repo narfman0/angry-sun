@@ -11,6 +11,12 @@ There lie many challenges in reliably performing early hammer on console. A comm
 press a TAS emulator reset hotkey and the NES reset button at the same time, and hope to spot a "wave" in
 obs if not synced properly. This document will iteratively seek to make this more reliable.
 
+## Capture card - opencv tool
+
+I've been working on a new tool to read directly from the capture card and match
+its output against template images. From there, we can measure latency and sync up
+that way. The project lives here: https://github.com/narfman0/smb3-eh-manip
+
 ## First latch modifications
 
 The first step is syncing poweron of NES and TAS.

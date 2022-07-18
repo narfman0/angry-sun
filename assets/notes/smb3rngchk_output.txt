@@ -1,0 +1,984 @@
+[88 00 00 00 00 00 00 00 00]
+adding window of length 2 for level Level 2-f__1: 12256
+adding window of length 2 for level Level 2-f__1: 23078
+Max window for 2-1__1: 5
+Max window for 2-1__2: 6
+Max window for 2-2__1: 6
+Max window for 2-2__2: 4
+Max window for 2-f__1: 2
+Max window for 2-f__3: 1
+Max window for 2-f__6: 1
+Level 2-1__1:
+  2-frame windows:
+  3-frame windows:
+    EOL: 2674
+        init rng [e5 bc 77 0f e1 fe 3d c1 ba]
+    EOL: 3915
+        init rng [3e 84 f9 f0 03 e3 e4 23 eb]
+    EOL: 4217
+        init rng [bd 8c f7 ee 01 dd de 65 d9]
+    EOL: 4451
+        init rng [73 07 e1 ee 2d f1 aa 49 1d]
+    EOL: 4648
+        init rng [cd a4 3f 77 09 e7 f4 3b d3]
+    EOL: 5014
+        init rng [c5 a4 2f 67 39 f7 84 6b 63]
+    EOL: 5156
+        init rng [0c 20 38 78 08 f8 e9 18 ca]
+    EOL: 5793
+        init rng [1a 48 7c ec 15 cd e6 7d b1]
+    EOL: 6206
+        init rng [14 42 6a ee 3b e7 90 5f 7f]
+    EOL: 6816
+        init rng [06 2c 20 78 38 c8 b9 28 5a]
+    EOL: 8465
+        init rng [d8 cd 7c e6 1f d3 ec 4b 93]
+    EOL: 8772
+        init rng [a1 e0 a3 62 24 e0 a9 68 3a]
+    EOL: 9636
+        init rng [57 cb 64 f2 3b df a8 17 47]
+    EOL: 9752
+        init rng [ed bc 67 1f d1 ee 4d 91 0a]
+    EOL: 10537
+        init rng [06 1c 10 28 08 58 48 f8 69]
+    EOL: 10769
+        init rng [6f 63 bd 7a 00 f4 f5 1c f6]
+    EOL: 12853
+        init rng [18 48 78 e8 19 c9 fa 69 9d]
+    EOL: 14079
+        init rng [27 eb a4 73 3b dd aa 11 45]
+    EOL: 14669
+        init rng [b1 82 e1 e4 27 ef a0 7f 3f]
+    EOL: 15327
+        init rng [99 48 7a ea 1f cb f4 63 8b]
+    EOL: 15965
+        init rng [08 04 14 1c 34 0c 64 7c b4]
+    EOL: 16271
+        init rng [34 88 e1 f0 33 d3 b4 13 7b]
+    EOL: 16610
+        init rng [b3 82 e5 e0 2b eb bc 6b 13]
+    EOL: 16949
+        init rng [04 1c 14 2c 04 5c 54 ec 45]
+    EOL: 16988
+        init rng [04 00 08 08 18 08 38 28 58]
+    EOL: 17009
+        init rng [04 18 10 20 00 40 40 c0 41]
+    EOL: 17892
+        init rng [0e 14 08 20 30 70 10 f0 d1]
+    EOL: 18548
+        init rng [36 8c e1 f8 3b cb bc 2b 53]
+    EOL: 19463
+        init rng [0f f3 ec 0b d3 c4 63 eb 2c]
+    EOL: 19494
+        init rng [bb 86 f1 fc 1f e7 d8 17 a7]
+    EOL: 20059
+        init rng [f0 07 e7 e8 27 f7 b8 57 27]
+    EOL: 20127
+        init rng [da cd 78 e2 13 d7 f0 5f bf]
+    EOL: 20302
+        init rng [d6 cb 66 f0 3d dd a6 1d 51]
+    EOL: 20593
+        init rng [1c 48 70 e0 01 c1 c2 41 c5]
+    EOL: 21067
+        init rng [f8 07 f7 f8 17 e7 c8 07 97]
+    EOL: 21111
+        init rng [f4 07 ef e0 3f ff 80 7f 7f]
+    EOL: 21134
+        init rng [7f 0d f3 e8 0f df c0 7f ff]
+    EOL: 21156
+        init rng [34 8c e5 fc 37 cf a0 3f 7f]
+    EOL: 21332
+        init rng [1c 4a 72 e6 03 cf c8 57 c7]
+    EOL: 21809
+        init rng [6c 6a b2 67 03 cd ca 51 c5]
+    EOL: 21965
+        init rng [07 fb f4 03 eb ec 3b e3 94]
+    EOL: 22281
+        init rng [a9 e0 b3 72 14 f0 d9 38 8a]
+    EOL: 22388
+        init rng [75 05 ef e4 3b f3 84 63 6b]
+    EOL: 23018
+        init rng [67 6b a5 72 38 dc ad 14 4e]
+    EOL: 23079
+        init rng [91 48 6a fa 2f db 84 33 3b]
+    EOL: 23276
+        init rng [fd b4 4f 27 b9 f6 85 68 62]
+    EOL: 25003
+        init rng [7d 0d f7 ec 03 db dc 6b d3]
+    EOL: 25451
+        init rng [57 c9 66 f4 39 d1 a2 01 45]
+    EOL: 25737
+        init rng [17 fb d4 23 8b cc db 42 f4]
+    EOL: 25768
+        init rng [b3 86 e1 ec 2f f7 a8 47 17]
+    EOL: 26154
+        init rng [10 4c 6c f4 2d c5 9e 15 29]
+    EOL: 27830
+        init rng [53 c9 6e fc 21 d9 9a 29 1d]
+    EOL: 32120
+        init rng [5b cd 7a e0 15 d5 fe 55 a9]
+    EOL: 32292
+        init rng [7f 09 f7 e4 0b c3 d4 53 fb]
+    EOL: 32486
+        init rng [d6 c9 64 f6 3f d3 ac 0b 53]
+    EOL: 32947
+        init rng [eb 68 be 6f 13 cd ea 71 a5]
+    EOL: 34122
+        init rng [38 86 f7 fa 15 e1 ca 09 9d]
+    EOL: 35067
+        init rng [b5 8c e7 fe 31 cd ae 35 69]
+    EOL: 35441
+        init rng [e5 bc 77 0f e1 fe 3d c1 ba]
+    EOL: 36682
+        init rng [3e 84 f9 f0 03 e3 e4 23 eb]
+    EOL: 36984
+        init rng [bd 8c f7 ee 01 dd de 65 d9]
+    EOL: 37218
+        init rng [73 07 e1 ee 2d f1 aa 49 1d]
+    EOL: 37415
+        init rng [cd a4 3f 77 09 e7 f4 3b d3]
+    EOL: 37781
+        init rng [c5 a4 2f 67 39 f7 84 6b 63]
+    EOL: 37923
+        init rng [0c 20 38 78 08 f8 e9 18 ca]
+    EOL: 38560
+        init rng [1a 48 7c ec 15 cd e6 7d b1]
+    EOL: 38973
+        init rng [14 42 6a ee 3b e7 90 5f 7f]
+    EOL: 39583
+        init rng [06 2c 20 78 38 c8 b9 28 5a]
+    EOL: 41232
+        init rng [d8 cd 7c e6 1f d3 ec 4b 93]
+    EOL: 41539
+        init rng [a1 e0 a3 62 24 e0 a9 68 3a]
+    EOL: 42403
+        init rng [57 cb 64 f2 3b df a8 17 47]
+    EOL: 42519
+        init rng [ed bc 67 1f d1 ee 4d 91 0a]
+    EOL: 43304
+        init rng [06 1c 10 28 08 58 48 f8 69]
+  4-frame windows:
+    EOL: 12854
+        init rng [0c 24 3c 74 0c e4 fd 34 ce]
+    EOL: 16989
+        init rng [02 00 04 04 0c 04 1c 14 2c]
+    EOL: 20060
+        init rng [f8 03 f3 f4 13 fb dc 2b 93]
+    EOL: 20594
+        init rng [0e 24 38 70 00 e0 e1 20 e2]
+    EOL: 21112
+        init rng [fa 03 f7 f0 1f ff c0 3f bf]
+    EOL: 21135
+        init rng [bf 86 f9 f4 07 ef e0 3f ff]
+    EOL: 32948
+        init rng [f5 b4 5f 37 89 e6 f5 38 d2]
+  5-frame windows:
+    EOL: 21136
+        init rng [5f c3 7c fa 03 f7 f0 1f ff]
+Level 2-2__1:
+  2-frame windows:
+  3-frame windows:
+    EOL: 2769
+        init rng [2b 39 6f 1d c3 f8 7f 8f 70]
+    EOL: 2798
+        init rng [74 60 88 49 59 cb 78 ee 1f]
+    EOL: 2984
+        init rng [4a 7e ea 17 c3 ec 6b b3 64]
+    EOL: 3222
+        init rng [4e 76 ea 07 d3 dc 7b c3 34]
+    EOL: 3450
+        init rng [7e 62 9e 5b 67 d1 1e bc 81]
+    EOL: 3544
+        init rng [f8 d9 28 9a cb fe 69 95 46]
+    EOL: 3710
+        init rng [49 57 c5 6a e0 35 f5 9e 75]
+    EOL: 4317
+        init rng [25 31 7b 19 ef dc 03 bb bc]
+    EOL: 4551
+        init rng [c9 74 e6 0f c3 dc 5b e3 54]
+    EOL: 4643
+        init rng [2d 37 6d 03 d9 de 6d d1 0a]
+    EOL: 4743
+        init rng [2d 33 69 0f dd c2 79 fd 0e]
+    EOL: 4802
+        init rng [44 78 f0 01 e1 e2 21 e5 a6]
+    EOL: 4824
+        init rng [66 b4 79 11 e3 c0 07 87 88]
+    EOL: 4931
+        init rng [49 5f cd 72 e8 0d dd c6 7d]
+    EOL: 5004
+        init rng [7e 66 9a 57 63 cd 0a 90 85]
+    EOL: 5516
+        init rng [6a b0 65 05 cf c4 5b d3 64]
+    EOL: 5563
+        init rng [e4 dd 14 ae 87 da d5 60 ca]
+    EOL: 5870
+        init rng [48 7c ec 15 cd e6 7d b1 4a]
+    EOL: 6135
+        init rng [72 62 86 43 4f c9 56 c4 69]
+    EOL: 6284
+        init rng [21 35 77 1d f3 c8 2f bf e0]
+    EOL: 6396
+        init rng [f4 dd 34 8e e7 fa 35 c1 aa]
+    EOL: 6487
+        init rng [e8 d9 08 ba ab de 89 34 26]
+    EOL: 6747
+        init rng [4c 78 e0 11 d1 f2 51 b5 16]
+    EOL: 6832
+        init rng [41 57 d5 7a d0 25 85 ce c5]
+    EOL: 7761
+        init rng [35 37 5d 33 89 ee fd 20 da]
+    EOL: 7967
+        init rng [25 33 79 1f ed d2 09 ad be]
+    EOL: 8098
+        init rng [62 b0 75 15 ff d4 2b 83 d4]
+    EOL: 8171
+        init rng [37 35 5b 31 87 e4 eb 22 f4]
+    EOL: 8740
+        init rng [39 3b 49 3f ad d2 89 2c 3e]
+    EOL: 8981
+        init rng [96 97 ba 95 e0 cb 0a 9c 89]
+    EOL: 9495
+        init rng [d9 74 c6 2f a3 fc bb 42 34]
+    EOL: 9560
+        init rng [4a 76 e2 0f cb d4 43 eb 6c]
+    EOL: 9579
+        init rng [45 43 c9 4e dc 41 f9 7a 88]
+    EOL: 9735
+        init rng [33 39 5f 2d 93 c8 ef 7e a0]
+    EOL: 10413
+        init rng [35 39 53 21 87 c4 cb 42 d4]
+    EOL: 10458
+        init rng [45 53 d9 7e cc 31 a9 ca 99]
+    EOL: 10917
+        init rng [35 33 59 3f 8d f2 e9 0c de]
+    EOL: 11005
+        init rng [46 7e f2 0f eb f4 23 cb 8c]
+    EOL: 11113
+        init rng [49 7f ed 12 c8 ed 7c a6 5f]
+    EOL: 11189
+        init rng [45 5b d1 66 c4 09 81 92 91]
+    EOL: 11328
+        init rng [27 35 7b 11 e7 c4 0b 83 94]
+    EOL: 11588
+        init rng [37 3d 53 29 8f dc c3 7a fc]
+    EOL: 12108
+        init rng [c9 7c ee 17 cb e4 73 bb 5c]
+    EOL: 12127
+        init rng [31 3b 59 2f 9d c2 f9 7c 8e]
+    EOL: 12422
+        init rng [41 77 f5 1a f0 c5 24 ae e7]
+    EOL: 12657
+        init rng [70 64 84 4d 45 df 54 ea 43]
+    EOL: 12901
+        init rng [39 3f 4d 33 a9 ce 9d 00 3a]
+    EOL: 13753
+        init rng [9e 93 ae 89 d4 c7 6e e0 3d]
+    EOL: 14018
+        init rng [78 64 94 5d 75 cf 24 ba f3]
+    EOL: 14169
+        init rng [31 3f 5d 23 99 de ed 50 8a]
+    EOL: 14255
+        init rng [4d 43 d9 5e ec 51 89 2a 38]
+    EOL: 14726
+        init rng [42 7e fa 07 f3 fc 1b e3 d4]
+    EOL: 14878
+        init rng [dd 70 ca 2b bf e8 97 46 68]
+    EOL: 15346
+        init rng [2d 31 6b 09 df cc 73 eb 0c]
+    EOL: 15525
+        init rng [2d 3f 65 1b d1 e6 45 89 02]
+    EOL: 16142
+        init rng [d9 7c ce 37 ab c4 93 1a 3c]
+    EOL: 16320
+        init rng [3d 3b 41 37 b5 da b1 04 66]
+    EOL: 16349
+        init rng [44 70 f8 19 e9 da 09 bd ae]
+    EOL: 16370
+        init rng [d5 78 d2 23 87 c0 cf 4e d0]
+    EOL: 16418
+        init rng [35 3f 55 2b 81 d6 d5 78 d2]
+    EOL: 16710
+        init rng [2b 31 67 05 cb c0 57 d7 78]
+    EOL: 17504
+        init rng [31 33 51 37 95 fa d1 24 86]
+    EOL: 17893
+        init rng [2f 3d 63 19 df ec 53 8b 2c]
+    EOL: 17921
+        init rng [f0 d1 30 92 f3 d6 31 9d fe]
+    EOL: 18455
+        init rng [29 3b 69 1f cd f2 69 8d 5e]
+    EOL: 18459
+        init rng [92 93 b6 91 fc df 26 98 d5]
+    EOL: 18736
+        init rng [d1 74 d6 3f 93 ec cb 12 84]
+    EOL: 18832
+        init rng [41 47 c5 4a c0 55 d5 7e d4]
+    EOL: 19036
+        init rng [e0 d9 18 aa 9b ce f9 64 96]
+    EOL: 19593
+        init rng [4a 7a ee 1b c7 f0 7f 9f 60]
+    EOL: 19717
+        init rng [ec d5 0c a6 bf f2 8d 68 72]
+    EOL: 20035
+        init rng [48 74 e4 0d c5 de 55 e9 42]
+    EOL: 20183
+        init rng [42 7a fe 0b f7 e0 0f cf d0]
+    EOL: 20204
+        init rng [cd 78 e2 13 d7 f0 5f bf 00]
+    EOL: 20434
+        init rng [41 5f dd 62 d8 1d ad 96 cd]
+    EOL: 21234
+        init rng [46 72 fe 1b e7 d0 1f bf 80]
+    EOL: 21409
+        init rng [4a 72 e6 03 cf c8 57 c7 68]
+    EOL: 21799
+        init rng [fc dd 24 9e d7 ea 45 91 1a]
+    EOL: 22074
+        init rng [c1 7c fe 07 fb f4 03 eb ec]
+    EOL: 22207
+        init rng [9a 97 a2 8d c8 d3 42 e4 61]
+    EOL: 22326
+        init rng [f0 d9 38 8a fb ee 19 c5 f6]
+    EOL: 22488
+        init rng [cd 70 ea 0b df c8 77 e7 08]
+    EOL: 22598
+        init rng [d5 70 da 3b 8f f8 e7 16 d8]
+    EOL: 22738
+        init rng [2d 3b 61 17 d5 fa 51 a5 06]
+    EOL: 22767
+        init rng [7c 60 98 59 69 db 08 be af]
+    EOL: 22927
+        init rng [3f 3d 43 39 bf cc b3 2a 4c]
+    EOL: 23371
+        init rng [29 3f 6d 13 c9 ee 7d a1 5a]
+    EOL: 23399
+        init rng [e0 d1 10 b2 93 f6 d1 3c 9e]
+    EOL: 23789
+        init rng [31 35 57 3d 93 e8 cf 1e 80]
+    EOL: 23860
+        init rng [2d 39 63 11 d7 f4 5b b3 04]
+    EOL: 24310
+        init rng [29 37 65 0b c1 d6 55 f9 52]
+    EOL: 24445
+        init rng [96 93 be 99 e4 d7 1e b0 8d]
+    EOL: 24527
+        init rng [fc d5 2c 86 df d2 6d c9 12]
+    EOL: 24539
+        init rng [41 4f cd 52 c8 6d fd 26 dc]
+    EOL: 24646
+        init rng [42 76 f2 1f fb c4 33 bb dc]
+    EOL: 24755
+        init rng [41 7f fd 02 f8 fd 0c f6 ef]
+    EOL: 24816
+        init rng [4d 73 e9 0e dc c1 78 fa 0b]
+    EOL: 25103
+        init rng [c5 70 fa 1b ef d8 07 b7 b8]
+    EOL: 25399
+        init rng [42 72 f6 13 ff d8 27 97 d8]
+    EOL: 25497
+        init rng [e8 d1 00 a2 a3 e6 a1 6c 2e]
+    EOL: 25550
+        init rng [31 3d 5f 25 9b d0 e7 46 88]
+    EOL: 25658
+        init rng [46 76 fa 17 e3 cc 0b 93 84]
+    EOL: 25679
+        init rng [dd 78 c2 33 b7 d0 bf 1e 60]
+    EOL: 25868
+        init rng [29 35 67 0d c3 d8 5f ef 50]
+    EOL: 25986
+        init rng [21 33 71 17 f5 da 31 85 e6]
+    EOL: 26303
+        init rng [3b 39 4f 3d a3 d8 9f 2e 10]
+    EOL: 26332
+        init rng [4c 70 e8 09 d9 ca 79 ed 1e]
+    EOL: 26673
+        init rng [9e 97 aa 85 d0 db 7a cc 39]
+    EOL: 26698
+        init rng [72 66 82 4f 4b d5 42 e8 6d]
+    EOL: 26778
+        init rng [4e 7e e2 1f db e4 53 9b 3c]
+    EOL: 26865
+        init rng [45 7b f1 06 e4 e9 20 f2 b3]
+    EOL: 27535
+        init rng [23 31 77 15 fb d0 27 87 c8]
+    EOL: 27877
+        init rng [76 66 8a 47 53 dd 7a c0 35]
+    EOL: 27923
+        init rng [4d 53 c9 6e fc 21 d9 9a 29]
+    EOL: 27927
+        init rng [f4 d5 3c 96 ef c2 1d 99 a2]
+    EOL: 28085
+        init rng [40 7c fc 05 fd f6 0d e1 fa]
+    EOL: 28106
+        init rng [c5 78 f2 03 e7 e0 2f ef b0]
+    EOL: 28444
+        init rng [40 74 f4 1d f5 ce 25 b9 f2]
+    EOL: 28466
+        init rng [6e b4 69 01 d3 d0 77 d7 38]
+    EOL: 28731
+        init rng [49 47 d5 5a f0 45 a5 2e 64]
+    EOL: 28882
+        init rng [49 77 e5 0a c0 d5 54 fe 57]
+    EOL: 28988
+        init rng [4e 7a e6 13 df f8 47 b7 38]
+    EOL: 29142
+        init rng [92 97 b2 9d f8 c3 32 b4 d1]
+    EOL: 29257
+        init rng [9a 93 a6 81 cc cf 56 c8 65]
+    EOL: 29521
+        init rng [29 33 61 07 c5 ca 41 d5 56]
+    EOL: 29603
+        init rng [c1 74 f6 1f f3 cc 2b b3 e4]
+    EOL: 29679
+        init rng [7a 66 92 5f 7b c5 32 b8 dd]
+    EOL: 29770
+        init rng [4d 7b e1 16 d4 f9 50 a2 03]
+    EOL: 29955
+        init rng [ec dd 04 be b7 ca a5 30 7a]
+    EOL: 30373
+        init rng [29 3d 6f 15 cb e0 77 b7 58]
+    EOL: 30723
+        init rng [25 37 7d 13 e9 ce 1d 81 ba]
+    EOL: 30868
+        init rng [45 4b c1 56 d4 79 d1 22 80]
+    EOL: 30978
+        init rng [39 3d 4f 35 ab c0 97 16 38]
+    EOL: 31198
+        init rng [35 3b 51 27 85 ca c1 54 d6]
+    EOL: 31256
+        init rng [f8 d1 20 82 c3 c6 41 cd 4e]
+    EOL: 31477
+        init rng [3d 39 43 31 b7 d4 bb 12 64]
+    EOL: 31610
+        init rng [2f 35 6b 01 d7 d4 7b d3 24]
+    EOL: 31685
+        init rng [4d 5b c1 76 f4 19 f1 c2 21]
+    EOL: 31947
+        init rng [7a 62 96 53 7f d9 26 94 d9]
+    EOL: 32017
+        init rng [76 62 8e 4b 57 c1 6e ec 31]
+    EOL: 32480
+        init rng [45 73 f9 1e ec d1 08 aa bb]
+    EOL: 32779
+        init rng [4e 72 ee 0b d7 c0 6f ef 30]
+    EOL: 32882
+        init rng [e4 d5 1c b6 8f e2 fd 38 c2]
+    EOL: 32935
+        init rng [33 31 57 35 9b f0 c7 26 a8]
+    EOL: 33023
+        init rng [d1 7c de 27 9b d4 e3 4a 8c]
+    EOL: 33284
+        init rng [35 31 5b 39 8f fc e3 1a dc]
+    EOL: 33793
+        init rng [3d 3f 45 3b b1 c6 a5 28 62]
+    EOL: 34643
+        init rng [46 7a f6 03 ef e8 37 e7 88]
+    EOL: 34857
+        init rng [21 37 75 1b f1 c6 25 a9 e2]
+    EOL: 35235
+        init rng [31 37 55 3b 91 e6 c5 08 82]
+    EOL: 35536
+        init rng [2b 39 6f 1d c3 f8 7f 8f 70]
+    EOL: 35565
+        init rng [74 60 88 49 59 cb 78 ee 1f]
+    EOL: 35751
+        init rng [4a 7e ea 17 c3 ec 6b b3 64]
+    EOL: 35989
+        init rng [4e 76 ea 07 d3 dc 7b c3 34]
+    EOL: 36217
+        init rng [7e 62 9e 5b 67 d1 1e bc 81]
+    EOL: 36311
+        init rng [f8 d9 28 9a cb fe 69 95 46]
+    EOL: 36477
+        init rng [49 57 c5 6a e0 35 f5 9e 75]
+    EOL: 37084
+        init rng [25 31 7b 19 ef dc 03 bb bc]
+    EOL: 37318
+        init rng [c9 74 e6 0f c3 dc 5b e3 54]
+    EOL: 37410
+        init rng [2d 37 6d 03 d9 de 6d d1 0a]
+    EOL: 37510
+        init rng [2d 33 69 0f dd c2 79 fd 0e]
+    EOL: 37569
+        init rng [44 78 f0 01 e1 e2 21 e5 a6]
+    EOL: 37591
+        init rng [66 b4 79 11 e3 c0 07 87 88]
+    EOL: 37698
+        init rng [49 5f cd 72 e8 0d dd c6 7d]
+    EOL: 37771
+        init rng [7e 66 9a 57 63 cd 0a 90 85]
+    EOL: 38283
+        init rng [6a b0 65 05 cf c4 5b d3 64]
+    EOL: 38330
+        init rng [e4 dd 14 ae 87 da d5 60 ca]
+    EOL: 38637
+        init rng [48 7c ec 15 cd e6 7d b1 4a]
+    EOL: 38902
+        init rng [72 62 86 43 4f c9 56 c4 69]
+    EOL: 39051
+        init rng [21 35 77 1d f3 c8 2f bf e0]
+    EOL: 39163
+        init rng [f4 dd 34 8e e7 fa 35 c1 aa]
+    EOL: 39254
+        init rng [e8 d9 08 ba ab de 89 34 26]
+    EOL: 39514
+        init rng [4c 78 e0 11 d1 f2 51 b5 16]
+    EOL: 39599
+        init rng [41 57 d5 7a d0 25 85 ce c5]
+    EOL: 40528
+        init rng [35 37 5d 33 89 ee fd 20 da]
+    EOL: 40734
+        init rng [25 33 79 1f ed d2 09 ad be]
+    EOL: 40865
+        init rng [62 b0 75 15 ff d4 2b 83 d4]
+    EOL: 40938
+        init rng [37 35 5b 31 87 e4 eb 22 f4]
+    EOL: 41507
+        init rng [39 3b 49 3f ad d2 89 2c 3e]
+    EOL: 41748
+        init rng [96 97 ba 95 e0 cb 0a 9c 89]
+    EOL: 42262
+        init rng [d9 74 c6 2f a3 fc bb 42 34]
+    EOL: 42327
+        init rng [4a 76 e2 0f cb d4 43 eb 6c]
+    EOL: 42346
+        init rng [45 43 c9 4e dc 41 f9 7a 88]
+    EOL: 42502
+        init rng [33 39 5f 2d 93 c8 ef 7e a0]
+    EOL: 43180
+        init rng [35 39 53 21 87 c4 cb 42 d4]
+    EOL: 43225
+        init rng [45 53 d9 7e cc 31 a9 ca 99]
+  4-frame windows:
+    EOL: 2985
+        init rng [25 3f 75 0b e1 f6 35 d9 b2]
+    EOL: 4644
+        init rng [96 9b b6 81 ec ef 36 e8 85]
+    EOL: 5564
+        init rng [72 6e 8a 57 43 ed 6a b0 65]
+    EOL: 6397
+        init rng [7a 6e 9a 47 73 fd 1a e0 d5]
+    EOL: 7762
+        init rng [9a 9b ae 99 c4 f7 7e 90 6d]
+    EOL: 9561
+        init rng [25 3b 71 07 e5 ea 21 f5 b6]
+    EOL: 14727
+        init rng [21 3f 7d 03 f9 fe 0d f1 ea]
+    EOL: 15526
+        init rng [96 9f b2 8d e8 f3 22 c4 81]
+    EOL: 16419
+        init rng [9a 9f aa 95 c0 eb 6a bc 69]
+    EOL: 19037
+        init rng [70 6c 8c 55 4d e7 7c b2 4b]
+    EOL: 19718
+        init rng [76 6a 86 53 5f f9 46 b4 39]
+    EOL: 20184
+        init rng [21 3d 7f 05 fb f0 07 e7 e8]
+    EOL: 20205
+        init rng [66 bc 71 09 eb f8 2f df 80]
+    EOL: 21235
+        init rng [23 39 7f 0d f3 e8 0f df c0]
+    EOL: 21410
+        init rng [25 39 73 01 e7 e4 2b e3 b4]
+    EOL: 21800
+        init rng [7e 6e 92 4f 6b f5 22 c8 8d]
+    EOL: 22208
+        init rng [4d 4b d1 46 e4 69 a1 72 30]
+    EOL: 22327
+        init rng [78 6c 9c 45 7d f7 0c e2 fb]
+    EOL: 22599
+        init rng [6a b8 6d 1d c7 fc 73 8b 6c]
+    EOL: 24528
+        init rng [7e 6a 96 43 6f e9 36 e4 89]
+    EOL: 24647
+        init rng [21 3b 79 0f fd e2 19 dd ee]
+    EOL: 25104
+        init rng [62 b8 7d 0d f7 ec 03 db dc]
+    EOL: 25498
+        init rng [74 68 80 51 51 f3 50 b6 17]
+    EOL: 25680
+        init rng [6e bc 61 19 db e8 5f 8f 30]
+    EOL: 26699
+        init rng [39 33 41 27 a5 ea a1 74 36]
+    EOL: 27928
+        init rng [7a 6a 9e 4b 77 e1 0e cc d1]
+    EOL: 28989
+        init rng [27 3d 73 09 ef fc 23 db 9c]
+    EOL: 29680
+        init rng [3d 33 49 2f bd e2 99 5c 6e]
+    EOL: 29956
+        init rng [76 6e 82 5f 5b e5 52 98 3d]
+    EOL: 30724
+        init rng [92 9b be 89 f4 e7 0e c0 dd]
+    EOL: 31257
+        init rng [7c 68 90 41 61 e3 20 e6 a7]
+    EOL: 31948
+        init rng [3d 31 4b 29 bf ec 93 4a 6c]
+    EOL: 32018
+        init rng [3b 31 47 25 ab e0 b7 76 18]
+    EOL: 32883
+        init rng [72 6a 8e 5b 47 f1 7e 9c 61]
+    EOL: 33794
+        init rng [9e 9f a2 9d d8 e3 52 94 31]
+    EOL: 35752
+        init rng [25 3f 75 0b e1 f6 35 d9 b2]
+    EOL: 37411
+        init rng [96 9b b6 81 ec ef 36 e8 85]
+    EOL: 38331
+        init rng [72 6e 8a 57 43 ed 6a b0 65]
+    EOL: 39164
+        init rng [7a 6e 9a 47 73 fd 1a e0 d5]
+    EOL: 40529
+        init rng [9a 9b ae 99 c4 f7 7e 90 6d]
+    EOL: 42328
+        init rng [25 3b 71 07 e5 ea 21 f5 b6]
+  5-frame windows:
+    EOL: 2986
+        init rng [92 9f ba 85 f0 fb 1a ec d9]
+    EOL: 5565
+        init rng [39 37 45 2b a1 f6 b5 58 32]
+    EOL: 6398
+        init rng [3d 37 4d 23 b9 fe 8d 70 6a]
+    EOL: 24529
+        init rng [3f 35 4b 21 b7 f4 9b 72 44]
+    EOL: 32884
+        init rng [39 35 47 2d a3 f8 bf 4e 30]
+    EOL: 35753
+        init rng [92 9f ba 85 f0 fb 1a ec d9]
+    EOL: 38332
+        init rng [39 37 45 2b a1 f6 b5 58 32]
+    EOL: 39165
+        init rng [3d 37 4d 23 b9 fe 8d 70 6a]
+  6-frame windows:
+    EOL: 2987
+        init rng [49 4f dd 42 f8 7d 8d 76 6c]
+    EOL: 6399
+        init rng [9e 9b a6 91 dc ff 46 b8 35]
+    EOL: 35754
+        init rng [49 4f dd 42 f8 7d 8d 76 6c]
+    EOL: 39166
+        init rng [9e 9b a6 91 dc ff 46 b8 35]
+Level 2-1__2:
+  2-frame windows:
+  3-frame windows:
+    EOL: 3936
+        init rng [b3 8e e9 f4 27 cf 80 1f 1f]
+    EOL: 4239
+        init rng [14 4a 62 f6 33 df b8 07 77]
+    EOL: 4474
+        init rng [de c9 74 e6 0f c3 dc 5b e3]
+    EOL: 6442
+        init rng [0a 24 30 78 18 e8 d9 08 ba]
+    EOL: 6547
+        init rng [5f cb 74 e2 0b cf d8 47 f7]
+    EOL: 7587
+        init rng [30 88 e9 f8 2b db 8c 3b 23]
+    EOL: 8182
+        init rng [32 8c e9 f0 23 c3 84 03 0b]
+    EOL: 8790
+        init rng [00 28 28 78 28 d8 89 38 2a]
+    EOL: 9406
+        init rng [97 4c 62 fa 3f cb b4 23 4b]
+    EOL: 11293
+        init rng [e9 b0 63 03 c5 c2 49 cd 5e]
+    EOL: 12227
+        init rng [0f fb e4 13 db fc 4b b3 24]
+    EOL: 12258
+        init rng [3a 80 f5 f4 1f f7 c8 27 b7]
+    EOL: 12660
+        init rng [36 84 e9 e0 33 f3 94 73 5b]
+    EOL: 12885
+        init rng [00 18 18 28 18 48 78 e8 19]
+    EOL: 12914
+        init rng [0c 28 30 60 00 c0 c1 40 c2]
+    EOL: 13163
+        init rng [c9 a8 3b 6b 1d cb f0 67 87]
+    EOL: 13314
+        init rng [57 cd 62 f8 3d cd b6 2d 41]
+    EOL: 14434
+        init rng [10 42 62 e6 23 ef a8 77 27]
+    EOL: 15251
+        init rng [c5 ac 27 7f 31 cf ac 33 6b]
+    EOL: 15530
+        init rng [bf 8a f5 e0 0b cb dc 4b f3]
+    EOL: 15987
+        init rng [02 1c 18 20 10 50 70 d0 31]
+    EOL: 16973
+        init rng [04 04 0c 04 1c 14 2c 04 5c]
+    EOL: 16994
+        init rng [08 10 00 20 20 60 20 e0 a1]
+    EOL: 17206
+        init rng [02 28 2c 7c 24 dc 95 2c 06]
+    EOL: 17876
+        init rng [08 20 30 70 10 f0 d1 30 92]
+    EOL: 18990
+        init rng [d6 cf 62 fc 39 c1 b2 31 55]
+    EOL: 20781
+        init rng [b1 8a e9 fc 2f d7 88 27 37]
+    EOL: 20907
+        init rng [0e 2c 30 68 08 d8 c9 78 ea]
+    EOL: 20965
+        init rng [79 0d ff e4 1b d3 e4 43 8b]
+    EOL: 20987
+        init rng [b7 86 e9 e4 37 ff 90 6f 4f]
+    EOL: 21036
+        init rng [0b f3 e4 03 cb cc 5b c3 74]
+    EOL: 21083
+        init rng [03 ff f8 07 f7 f8 17 e7 c8]
+    EOL: 21089
+        init rng [f8 0f ff e0 1f df e0 5f 9f]
+    EOL: 21309
+        init rng [73 01 e7 e4 2b e3 b4 73 1b]
+    EOL: 22018
+        init rng [9d 44 7e f6 0b e7 f0 3f df]
+    EOL: 22332
+        init rng [63 6b ad 7a 20 d4 95 3c 16]
+    EOL: 22877
+        init rng [71 01 e3 e0 27 e7 a8 67 37]
+    EOL: 24652
+        init rng [f4 0b e3 f4 33 db bc 0b 73]
+    EOL: 24675
+        init rng [fa 0b ff e8 17 c7 e8 67 b7]
+    EOL: 25299
+        init rng [7b 09 ff ec 13 cb ec 7b a3]
+    EOL: 26204
+        init rng [53 cf 68 f6 27 cb 84 13 1b]
+    EOL: 26701
+        init rng [18 4e 7e e2 1f db e4 53 9b]
+    EOL: 27602
+        init rng [f9 b8 4b 3b ad da 81 34 36]
+    EOL: 28366
+        init rng [34 80 e9 e8 3b eb 9c 4b 73]
+    EOL: 29051
+        init rng [a5 ec a7 7e 30 cc ad 34 6e]
+    EOL: 29525
+        init rng [b5 82 e9 ec 3f e7 98 57 67]
+    EOL: 30278
+        init rng [f5 bc 57 2f 81 de dd 60 da]
+    EOL: 30728
+        init rng [91 40 62 e2 27 e3 ac 6b 33]
+    EOL: 31210
+        init rng [d2 c7 62 ec 29 f1 a2 41 05]
+    EOL: 32031
+        init rng [a9 e8 bb 6a 1c c8 f1 60 82]
+    EOL: 32571
+        init rng [0a 10 04 24 2c 64 3c f4 8d]
+    EOL: 33272
+        init rng [1c 4c 74 ec 05 dd d6 6d c1]
+    EOL: 34060
+        init rng [67 63 ad 6a 30 e4 85 4c 46]
+    EOL: 34715
+        init rng [53 c5 62 e8 2d fd a6 5d 11]
+    EOL: 36703
+        init rng [b3 8e e9 f4 27 cf 80 1f 1f]
+    EOL: 37006
+        init rng [14 4a 62 f6 33 df b8 07 77]
+    EOL: 37241
+        init rng [de c9 74 e6 0f c3 dc 5b e3]
+    EOL: 39209
+        init rng [0a 24 30 78 18 e8 d9 08 ba]
+    EOL: 39314
+        init rng [5f cb 74 e2 0b cf d8 47 f7]
+    EOL: 40354
+        init rng [30 88 e9 f8 2b db 8c 3b 23]
+    EOL: 40949
+        init rng [32 8c e9 f0 23 c3 84 03 0b]
+    EOL: 41557
+        init rng [00 28 28 78 28 d8 89 38 2a]
+    EOL: 42173
+        init rng [97 4c 62 fa 3f cb b4 23 4b]
+  4-frame windows:
+    EOL: 4475
+        init rng [ef 64 ba 73 07 e1 ee 2d f1]
+    EOL: 7588
+        init rng [18 44 74 fc 15 ed c6 1d 91]
+    EOL: 12886
+        init rng [00 0c 0c 14 0c 24 3c 74 0c]
+    EOL: 12915
+        init rng [06 14 18 30 00 60 60 a0 61]
+    EOL: 17877
+        init rng [04 10 18 38 08 78 68 98 49]
+    EOL: 18991
+        init rng [6b 67 b1 7e 1c e0 d9 18 aa]
+    EOL: 20782
+        init rng [d8 c5 74 fe 17 eb c4 13 9b]
+    EOL: 20988
+        init rng [5b c3 74 f2 1b ff c8 37 a7]
+    EOL: 21090
+        init rng [fc 07 ff f0 0f ef f0 2f cf]
+    EOL: 21310
+        init rng [b9 80 f3 f2 15 f1 da 39 8d]
+    EOL: 22878
+        init rng [38 80 f1 f0 13 f3 d4 33 9b]
+    EOL: 24676
+        init rng [7d 05 ff f4 0b e3 f4 33 db]
+    EOL: 37242
+        init rng [ef 64 ba 73 07 e1 ee 2d f1]
+    EOL: 40355
+        init rng [18 44 74 fc 15 ed c6 1d 91]
+  5-frame windows:
+    EOL: 21091
+        init rng [fe 03 ff f8 07 f7 f8 17 e7]
+  6-frame windows:
+    EOL: 21092
+        init rng [7f 01 ff fc 03 fb fc 0b f3]
+Level 2-2__2:
+  2-frame windows:
+  3-frame windows:
+    EOL: 3385
+        init rng [03 f1 f6 15 f9 d2 21 85 c6]
+    EOL: 3752
+        init rng [99 96 a5 88 c3 d2 55 f1 5a]
+    EOL: 4014
+        init rng [c7 74 fa 13 e7 c0 0f 8f 90]
+    EOL: 5241
+        init rng [0c 20 38 78 08 f8 e9 18 ca]
+    EOL: 6386
+        init rng [74 d2 3b 9f e8 d7 06 a8 a5]
+    EOL: 6624
+        init rng [cb 74 e2 0b cf d8 47 f7 78]
+    EOL: 7144
+        init rng [4c 72 ea 0f db c4 73 fb 1c]
+    EOL: 9691
+        init rng [8e f7 ea 05 d1 da 79 cd 3e]
+    EOL: 9837
+        init rng [ed bc 67 1f d1 ee 4d 91 0a]
+    EOL: 11589
+        init rng [9b 9e a9 94 c7 ee 61 bd 7e]
+    EOL: 11955
+        init rng [18 0c 3c 24 5c 14 ac 85 dc]
+    EOL: 12335
+        init rng [80 f5 f4 1f f7 c8 27 b7 f8]
+    EOL: 12930
+        init rng [48 78 e8 19 c9 fa 69 9d 4e]
+    EOL: 13852
+        init rng [14 24 0c 44 5c d4 6d c5 1e]
+    EOL: 14702
+        init rng [07 f3 fc 1b e3 d4 13 bb 9c]
+    EOL: 14727
+        init rng [21 3f 7d 03 f9 fe 0d f1 ea]
+    EOL: 14769
+        init rng [a8 33 63 05 c3 c8 4f df 40]
+    EOL: 16050
+        init rng [08 04 14 1c 34 0c 64 7c b4]
+    EOL: 16143
+        init rng [6c be 67 1b d5 e2 49 8d 1e]
+    EOL: 17018
+        init rng [14 2c 04 5c 54 ec 45 9d 16]
+    EOL: 17026
+        init rng [1c 14 2c 04 5c 54 ec 45 9d]
+    EOL: 17065
+        init rng [00 08 08 18 08 38 28 58 08]
+    EOL: 17094
+        init rng [04 18 10 20 00 40 40 c0 41]
+    EOL: 17976
+        init rng [1c 28 10 40 60 e0 21 e1 a2]
+    EOL: 18639
+        init rng [74 da 33 87 e0 ef 2e f0 ad]
+    EOL: 18737
+        init rng [68 ba 6b 1f c9 f6 65 89 42]
+    EOL: 20642
+        init rng [1c 1c 24 1c 54 6c c4 1d 95]
+    EOL: 20670
+        init rng [48 70 e0 01 c1 c2 41 c5 46]
+    EOL: 20944
+        init rng [c9 78 ea 1b cf f8 67 97 58]
+    EOL: 21936
+        init rng [17 91 be 9d e0 db 1a ac 99]
+    EOL: 22050
+        init rng [07 fb f4 03 eb ec 3b e3 94]
+    EOL: 22073
+        init rng [82 f9 fc 0f f7 e8 07 d7 d8]
+    EOL: 22365
+        init rng [53 c1 66 e4 29 e1 b2 71 15]
+    EOL: 22978
+        init rng [64 b8 71 01 e3 e0 27 e7 a8]
+    EOL: 23980
+        init rng [14 10 38 18 68 58 88 39 29]
+    EOL: 25080
+        init rng [0d f7 ec 03 db dc 6b d3 04]
+    EOL: 25658
+        init rng [46 76 fa 17 e3 cc 0b 93 84]
+    EOL: 25823
+        init rng [0b fd ea 11 c5 e6 6d a1 7a]
+    EOL: 26779
+        init rng [27 3f 71 0f ed f2 29 cd 9e]
+    EOL: 27374
+        init rng [4b c5 52 d8 7d cd 36 ac c1]
+    EOL: 27512
+        init rng [8a fd e8 13 c3 e4 63 ab 6c]
+    EOL: 27915
+        init rng [53 c9 6e fc 21 d9 9a 29 1d]
+    EOL: 28085
+        init rng [40 7c fc 05 fd f6 0d e1 fa]
+    EOL: 29011
+        init rng [30 54 34 9c f5 cc 27 bf f0]
+    EOL: 29257
+        init rng [9a 93 a6 81 cc cf 56 c8 65]
+    EOL: 29521
+        init rng [29 33 61 07 c5 ca 41 d5 56]
+    EOL: 29871
+        init rng [ed b0 6b 0b dd ca 71 e5 06]
+    EOL: 30299
+        init rng [da 1b af 98 c7 f6 79 95 66]
+    EOL: 30444
+        init rng [4c 7a e2 17 d3 fc 5b a3 14]
+    EOL: 31528
+        init rng [2f 39 67 15 db f0 47 a7 28]
+    EOL: 31823
+        init rng [eb b6 61 0d cf d4 4b e3 74]
+    EOL: 32048
+        init rng [24 34 7c 14 ec c5 1c 96 af]
+    EOL: 32205
+        init rng [5b cd 7a e0 15 d5 fe 55 a9]
+    EOL: 32393
+        init rng [a2 3b 7f 09 f7 e4 0b c3 d4]
+    EOL: 34366
+        init rng [7b d5 22 88 cd dc 47 ff 70]
+    EOL: 34642
+        init rng [8c f5 ec 07 df d0 6f cf 10]
+    EOL: 34857
+        init rng [21 37 75 1b f1 c6 25 a9 e2]
+    EOL: 34917
+        init rng [2c 38 60 10 d0 f1 50 b2 13]
+    EOL: 36152
+        init rng [03 f1 f6 15 f9 d2 21 85 c6]
+    EOL: 36519
+        init rng [99 96 a5 88 c3 d2 55 f1 5a]
+    EOL: 36781
+        init rng [c7 74 fa 13 e7 c0 0f 8f 90]
+    EOL: 38008
+        init rng [0c 20 38 78 08 f8 e9 18 ca]
+    EOL: 39153
+        init rng [74 d2 3b 9f e8 d7 06 a8 a5]
+    EOL: 39391
+        init rng [cb 74 e2 0b cf d8 47 f7 78]
+    EOL: 39911
+        init rng [4c 72 ea 0f db c4 73 fb 1c]
+    EOL: 42458
+        init rng [8e f7 ea 05 d1 da 79 cd 3e]
+    EOL: 42604
+        init rng [ed bc 67 1f d1 ee 4d 91 0a]
+  4-frame windows:
+    EOL: 6625
+        init rng [e5 ba 71 05 e7 ec 23 fb bc]
+    EOL: 12931
+        init rng [24 3c 74 0c e4 fd 34 ce a7]
+    EOL: 14703
+        init rng [03 f9 fe 0d f1 ea 09 dd ce]
+    EOL: 22074
+        init rng [c1 7c fe 07 fb f4 03 eb ec]
+    EOL: 25659
+        init rng [23 3b 7d 0b f1 e6 05 c9 c2]
+    EOL: 39392
+        init rng [e5 ba 71 05 e7 ec 23 fb bc]
+LEVEL_FORTS, not a valid level enum:
+Level 2-f__1:
+  2-frame windows:
+    EOL: 12256
+        init rng [56 7c d0 29 89 da c9 7c ee]
+    EOL: 23078
+        init rng [64 b8 71 01 e3 e0 27 e7 a8]
+Level 2-f__3:
+Level 2-f__6:
