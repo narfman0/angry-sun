@@ -9,7 +9,7 @@ categories: notes eh earlyhammer early hammer
 
 ## [Early hammer (or4ng33xp0)]({{ site.baseurl }}{% link pages/early-hammer-or4ng33xp0.md %}) [src](http://smb3.bf0.org/)
 
-## [smb3rngchk (or4ng33xp0)]({{ site.baseurl }}{% link notes/smb3rngchk_output.txt %})
+## [smb3rngchk (or4ng33xp0)]({{ site.baseurl }}{% link assets/notes/smb3rngchk_output.txt %})
 
 or4ng33xp0 made a tool to check the rng results every level. This is how the frames were identified
 to create an optimal TAS.
