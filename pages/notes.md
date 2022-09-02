@@ -169,6 +169,27 @@ to Bowser being in the air from a little hop when Timer3 hit 0.
 
 # [Early hammer (or4ng33xp0)](#early-hammer-or4ng33xp0-src) [src]({{ site.baseurl }}{% link pages/early-hammer.md %})
 
+# [Fort acceleration difference (tompa)](#fort-acceleration-difference-tompa)
+
+After collecting an orb, you'll be frozen the first frame when
+entering a stage. This means the acceleration frame rule will be different, as
+it starts ticking on level load, compared to not getting an orb.
+
+If you hold right when entering a stage, you'll accelerate up to speed 6 then
+the acceleration frame rule ticks in and you'll not increase to speed 7 the
+following frame but will instead stay at 6.
+
+If a fort was beaten, you'll get up to speed 5 before being stopped for a frame.
+That freeze frame also makes it impossible to jump in midair in 4-4 if you beat
+the fort previously, and it will also decrease the number of frames you can
+jump at the start of a castle from 2 to 1.
+
+Max non-pspeed speed is 40, and there are 16 subpixels. 40 goes into 16
+twice with a remainder of 8. Thus, speed will oscillate between two because the
+remainder (8) is half of the total values. This means the subpixel values
+will oscillate with different values after orb collection levels vs after
+regular levels.
+
 # [Firekill savestates (thebagler5)](#firekill-savestates-thebagler5)
 
 [Download zip]({{ site.baseurl }}/assets/notes/firekills.zip)
