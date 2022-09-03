@@ -17,6 +17,9 @@ Below is the output of the smb3 lua script with hitboxes enabled
 ### Fire
 ![]({{ site.baseurl }}/assets/hitboxes/mario/fire.png)
 
+### Hammer, pspeed
+![]({{ site.baseurl }}/assets/hitboxes/mario/hammerPspeedLeft.png)
+
 ## Koopalings
 
 ### World1
@@ -77,3 +80,6 @@ Below is the output of the smb3 lua script with hitboxes enabled
 
 ### Waffle
 ![]({{ site.baseurl }}/assets/hitboxes/waffle.png)
+
+### Fireball
+![]({{ site.baseurl }}/assets/hitboxes/fireball.png)
