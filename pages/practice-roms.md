@@ -23,11 +23,11 @@ patch for 7-1/7-6/7-7/7-9
 
 - Lui has created a firekill practice rom. Usage:
 1. Go to the desired world
-2. powerup before entering a level the distance from the castle you wish
-3. press select to increment the leftmost number in score (which represents
+2. Powerup before entering a level the distance from the castle you wish
+3. Press select to increment the leftmost number in score (which represents
 how many movements the bro will take when exiting the level)
-4. press select-start to exit the level
-5. go to the airship as normal
+4. Press select-start to exit the level. Note the bro movements.
+5. Go to the airship as normal
 You will get the pattern you selected with the 'select' button.
   - [patch link]({{ site.baseurl }}/assets/patches/smb3movements.ips)
 
