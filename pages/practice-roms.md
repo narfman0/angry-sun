@@ -21,6 +21,16 @@ patches for regular practice, pspeed with dots, and a subpixel practice rom
 patch for 7-1/7-6/7-7/7-9
   - [patch link]({{ site.baseurl }}/assets/patches/smb3practice_20220313.zip)
 
+- Lui has created a firekill practice rom. Usage:
+1. Go to the desired world
+2. powerup before entering a level the distance from the castle you wish
+3. press select to increment the leftmost number in score (which represents
+how many movements the bro will take when exiting the level)
+4. press select-start to exit the level
+5. go to the airship as normal
+You will get the pattern you selected with the 'select' button.
+  - [patch link]({{ site.baseurl }}/assets/patches/smb3movements.ips)
+
 ### Historical patches
 
 - fcoughlin created the standard version, which hard-codes debug mode (start screen lives and stage select, select button cycles powerups, full infinite world map items) and includes hammer brother delete and stage reentry.
