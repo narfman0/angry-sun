@@ -42,11 +42,9 @@ You will get the pattern you selected with the 'select' button.
   - [patch link]({{ site.baseurl }}/assets/patches/smb3pspeed.ips)
 
 - Lui's builds off dots' further. Description: not much new, but i’ve replaced the anchor with something that looks like a poison shroom that makes you small mario on the map, also added some meme easter egg which may or may not be useful, see if you can figure it out
-  - [rom link](https://cdn.discordapp.com/attachments/121413022731337732/502671645924655124/smb3practice.nes)
   - [patch link]({{ site.baseurl }}/assets/patches/smb3practice.ips)
 
 - Lui's 7-7 practice rom
-  - [rom link](https://cdn.discordapp.com/attachments/121413022731337732/565682523091501056/smb3practice_7-7.nes)
   - [patch link]({{ site.baseurl }}/assets/patches/smb3practice_7-7.ips)
 
 - Lui's 7-1 wrong warp practice rom
