@@ -17,9 +17,13 @@ to patch the PRG0 rom should yield the target practice rom.
 ### Current
 
 - Lui has extended fcoughlin and dotsarecool's work. Included in the zip are
-patches for regular practice, pspeed with dots, and a subpixel practice rom
-patch for 7-1/7-6/7-7/7-9
-  - [patch link]({{ site.baseurl }}/assets/patches/smb3practice_20220313.zip)
+patches for regular practice, pspeed with dots, and a subpixel practice patch.
+Most recent description from Lui: hammer bros are back on the maps as
+stationary levels, plus all map sprites (hammer bros, plants, tanks etc) may be
+entered manually and won't disappear if beaten or exited. Updated the speed
+viewer as well to take slope/conveyor speed boosts into account, thanks to
+tompa.
+  - [patch link]({{ site.baseurl }}/assets/patches/smb3practice_20230108.zip)
 
 - Lui has created a firekill practice rom. Usage:
 1. Go to the desired world
@@ -42,6 +46,7 @@ You will get the pattern you selected with the 'select' button.
   - [patch link]({{ site.baseurl }}/assets/patches/smb3pspeed.ips)
 
 - Lui's builds off dots' further. Description: not much new, but i’ve replaced the anchor with something that looks like a poison shroom that makes you small mario on the map, also added some meme easter egg which may or may not be useful, see if you can figure it out
+  - [more recent smb3practice_20220313.zip]({{ site.baseurl }}/assets/patches/smb3practice_20220313.zip)
   - [patch link]({{ site.baseurl }}/assets/patches/smb3practice.ips)
 
 - Lui's 7-7 practice rom
