@@ -11,6 +11,7 @@ A list of commonly used terms and abbreviations (Note: Terms with a # sign can b
 * HB - Hammer Brother, they like to run marathons around the screen
 * F# - Fort(ress), the dwelling of Boom Boom
 * IL - Individual Level: Getting a single exit as fast as possible, regardless of whether or not it can be used in any full-game run. Sometimes has restrictions.
+* Lag Frame - A frame in which the game did not poll for input. Normally the game checks the controller input about two times per frame (a frame is about 16.64ms in duration). The naming comes from fceux which more formally identifies a lag frame when "two NMIs without reading either joypad in between", and they show up as red in a tas editor. They have a side effect where the subsequent frame does not render as you'd normally expect, though it can be updated a bit (e.g. exploding animation changes). Usually the camera coordinates don't update though. Note: for early hammer, since we've precomputed level transition lag frames, we only care about lag within levels, though they are indistinguishable from level load/exit/transition frames.
 * Macaroni & Cheese - Getting 7-1 zip on your very first attempt
 * P-speed - The bar that fills up as mario runs, it makes him faster accordingly and allows for longer jumps
 * P-heavy - A strat heavily reliant on a specific p-speed value to work
