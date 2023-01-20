@@ -10,6 +10,7 @@ categories: links romhacking randomizer southbird discord speedrun
 * [Southbird disassembly](https://sonicepoch.com/sm3mix/disassembly.html)
 * [Super Mario Bros Discord](https://discord.gg/5CFbEDh)
 * [smb3-romhacking](https://narfman0.github.io/smb3-romhacks/)
+* [smb3-item-tracker](https://github.com/narfman0/smb3-item-tracker/releases/tag/v1)
 
 ## Leaderboards
 
