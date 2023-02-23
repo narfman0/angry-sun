@@ -16,6 +16,8 @@ a death.
 
 # [6F3 clip (Mizumaririn)](#6f3-clip-mizumaririn-src) [src](https://docs.google.com/spreadsheets/d/e/2PACX-1vS4Axtw1CdX6a-ZcQ-9c35ezIcMfAyCo2RXcQu8z_iRI25ZU6-TkEw4bscTZQvG-m4dRHiiVlXMRc8O/pubhtml#)
 
+# [7-1 duck clip data](#7-1-duck-clip-data) [src](https://docs.google.com/spreadsheets/d/1_Hyan9UidoyHolYwe1nmx4CPzMQ-rPLozf83IeRvor8)
+
 # [7-1 subpixel manipulation](#7-1-subpixel-manipulation)
 
 [Lui video](https://youtu.be/69ykM4gXbsA)
