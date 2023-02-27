@@ -282,6 +282,10 @@ faster 6f3 door entry, boom boom firekill, and 7-2 fast pspeed.
 
 See [felo's card strat]({{ site.baseurl }}{% link pages/warpless-51pwing-felo.md %}) for details and route.
 
+# [Offscreen wand grab offset script (lui)](#offscreen-wand-grab-offset-script-lui)
+
+[gh.com offsetsplits.py](https://github.com/narfman0/smb3-tools/blob/main/offsetsplits.py)
+
 # [Powerup grab/damage frame #s (Tompa)](#powerup-grabdamage-frame-s-tompa-src) [src](https://pastebin.com/sySbjFAd)
 
 Mario -> Super = 47 frames  
