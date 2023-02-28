@@ -60,6 +60,10 @@ Also, landing on the pipe gives a position of 0, or 1 for a frame, and that's us
 
 # [7-7 zip strategy guide (Lui)](#7-7-zip-strategy-guide-lui-src) [src]({{ site.baseurl }}{% link pages/7-7-zip-strategy-guide.md %})
 
+# [8-2 fire sun patterns (czikubi)](#8-2-fire-sun-patterns-czikubi)
+
+[youtu.be/Cz4sdr3VsZQ](https://youtu.be/Cz4sdr3VsZQ)
+
 # [Airship Rewards](#airship-rewards)
 
 * World 1 - P-wing
