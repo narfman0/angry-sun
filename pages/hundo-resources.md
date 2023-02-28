@@ -7,6 +7,8 @@ categories: resources hundo 100
 
 [SMB3 100% Strategies by Lui](https://www.youtube.com/playlist?list=PLtfeNbTmLSi-KXowVJJA76jv66QZjImgf)
 
+[SMB3 Tutorial for Every Level by Czikubi](https://youtu.be/gWzeQ1uQvj0)
+
 ### [practice-roms]({{ site.baseurl }}/{% link pages/practice-roms.md %})
 
 For roms/hacks/patches to preexisting roms (disable deaths, no card game, etc), and check Lui's practice rom for other features.
