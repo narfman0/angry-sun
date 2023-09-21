@@ -25,6 +25,12 @@ viewer as well to take slope/conveyor speed boosts into account, thanks to
 tompa.
   - [patch link]({{ site.baseurl }}/assets/patches/smb3practice_20230108.zip)
 
+- Someone (lui/czikubi?) made a 7-1 practice rom that shows the interesting
+memory values instead of score. This recent version includes a patch from noswear
+for setting the 1-3 goomba value correctly without having to go there, which helps
+when running for 4C.
+  - [patch link]({{ site.baseurl }}/assets/patches/smb3practice_7-1.bps)
+
 - Lui has created a firekill practice rom. Usage:
 1. Go to the desired world
 2. Powerup before entering a level the distance from the castle you wish
