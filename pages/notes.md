@@ -392,6 +392,26 @@ If you need any other info feel free to DM me.
 
 # [Route Comparison (Lui)](#route-comparison-lui-src) [src](https://docs.google.com/spreadsheets/d/e/2PACX-1vTzbqZb96uT2mP5Y11l9E_YZdCYWh_hChzw_v05kGzbjUeVm1_ZPpEl2lq0oYa7eikTvw3gqkAZSUS5/pubhtml#)
 
+# [Simulated w2 RNG (lui)](#simulated-w2-rng-lui)
+
+| post 2-3 eh | 1.8%|
+| 1 death eh | 0.51%|
+| 0 death eh | 0.05%|
+
+# [Simulated w3 RNG (lui)](#simulated-w3-rng-lui)
+
+simulated w3 rng 1 million times up to before clouding 3-6 and this is what i got:
+
+| description | matches | rate |
+|no runaway | 727457 | 72.75% |
+|runaway with at least 1 death required | 247399 | 24.74% |
+|hammer runaway and star is skippable | 1014 | 0.10% |
+|runaway and both bros are skippable | 15274 | 1.53% |
+|runaway and both bros are skippable but optional comeback is possible (subset of the above) | 9322 | 0.93% |
+|runaway with unskippable star unless hammer is fought | 8499 | 0.85% |
+|runaway with unskippable star and hammer right of 3-6 | 211 | 0.02% |
+|runaway with unskippable star and hammer right of 3-8 | 146 | 0.01% |
+
 # [SMB3 RTA Wiki](#smb3-rta-wiki)
 
 [smb3rta.wikia.com](http://smb3rta.wikia.com/wiki/SMB3RTA_Wiki)
