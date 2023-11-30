@@ -392,13 +392,13 @@ If you need any other info feel free to DM me.
 
 # [Route Comparison (Lui)](#route-comparison-lui-src) [src](https://docs.google.com/spreadsheets/d/e/2PACX-1vTzbqZb96uT2mP5Y11l9E_YZdCYWh_hChzw_v05kGzbjUeVm1_ZPpEl2lq0oYa7eikTvw3gqkAZSUS5/pubhtml#)
 
-# [Simulated w2 RNG (lui)](#simulated-w2-rng-lui)
+# [Simulated w2 RNG (lui)](#simulated-w2-rng-lui-src) [src](https://discord.com/channels/747566475753029643/824185359284830219/1172586399019569192)
 
 | post 2-3 eh | 1.8%|
 | 1 death eh | 0.51%|
 | 0 death eh | 0.05%|
 
-# [Simulated w3 RNG (lui)](#simulated-w3-rng-lui)
+# [Simulated w3 RNG (lui)](#simulated-w3-rng-lui-src)  [src](https://discord.com/channels/747566475753029643/824185359284830219/1175089402305843260)
 
 simulated w3 rng 1 million times up to before clouding 3-6 and this is what i got:
 
@@ -411,6 +411,10 @@ simulated w3 rng 1 million times up to before clouding 3-6 and this is what i go
 |runaway with unskippable star unless hammer is fought | 8499 | 0.85% |
 |runaway with unskippable star and hammer right of 3-6 | 211 | 0.02% |
 |runaway with unskippable star and hammer right of 3-8 | 146 | 0.01% |
+
+# [Simulated w6 RNG (lui)](#simulated-w6-rng-lui-src) [src](https://discord.com/channels/747566475753029643/824185359284830219/1175107655283511318)
+
+got 61.4% chance of skipping star bro in w6 also
 
 # [SMB3 RTA Wiki](#smb3-rta-wiki)
 
