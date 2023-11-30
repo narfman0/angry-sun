@@ -175,6 +175,43 @@ to Bowser being in the air from a little hop when Timer3 hit 0.
 
 # [Early hammer (or4ng33xp0)](#early-hammer-or4ng33xp0-src) [src]({{ site.baseurl }}{% link pages/early-hammer.md %})
 
+# [Firekill savestates (yatokami9)](#firekill-savestates-yatokami9)
+
+Intended for everdrive n8 pro!
+
+#0: standard W1
+#1:  Hundo W2
+#2: mov 1.5 W2
+#3: Wendy
+#4: W4 mov2
+#5: W5 mov1
+#6: Ignore, its an impossible W5 pattern
+#7: hundo W5
+#8: W2 OSWG practice
+#9: W6 subpixel manip practice
+#10: W5 OSWG practice
+#11: W6 Fire kill
+#12: Hundo W7
+#13: Warpless W7 (boxing with one inventory movement after fort)
+#14: Duck clip practice 7-1
+#15: Hundo W4
+
+[Download zip]({{ site.baseurl }}/assets/notes/firekill_savestates.zip)
+
+# [Firekill savestates (thebagler5)](#firekill-savestates-thebagler5)
+
+Intended for nestopia!
+
+[Download zip]({{ site.baseurl }}/assets/notes/firekills.zip)
+
+Create two practice roms named `smb3_firekill_practice` and `smb3_firekill_practice2`,
+and extract the savestates in the nestopia save dir.
+
+`smb3_firekill_practice` 1 = Larry post 1-6 bro fight, 2 = Morton movement of 1, 3 = Wendy,
+4 = Iggy movement of 0, 5 = Morton movement of 2, 6 = Roy shoot first pattern,
+7 = Roy movement of 1 pattern, 9 = Iggy movement of 2
+`smb3_firekill_practice2` 1 = Larry pre 1-6 bro fight, 2 = Lemmy, 5 = Iggy movement of 1
+
 # [Fort acceleration difference (tompa)](#fort-acceleration-difference-tompa)
 
 After collecting an orb, you'll be frozen the first frame when
@@ -195,18 +232,6 @@ twice with a remainder of 8. Thus, speed will oscillate between two because the
 remainder (8) is half of the total values. This means the subpixel values
 will oscillate with different values after orb collection levels vs after
 regular levels.
-
-# [Firekill savestates (thebagler5)](#firekill-savestates-thebagler5)
-
-[Download zip]({{ site.baseurl }}/assets/notes/firekills.zip)
-
-Create two practice roms named `smb3_firekill_practice` and `smb3_firekill_practice2`,
-and extract the savestates in the nestopia save dir.
-
-`smb3_firekill_practice` 1 = Larry post 1-6 bro fight, 2 = Morton movement of 1, 3 = Wendy,
-4 = Iggy movement of 0, 5 = Morton movement of 2, 6 = Roy shoot first pattern,
-7 = Roy movement of 1 pattern, 9 = Iggy movement of 2
-`smb3_firekill_practice2` 1 = Larry pre 1-6 bro fight, 2 = Lemmy, 5 = Iggy movement of 1
 
 # [Frames by action](#frames-by-action)
 
