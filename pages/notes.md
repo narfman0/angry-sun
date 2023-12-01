@@ -90,22 +90,6 @@ When two fireballs hit on the same frame, it takes the boom boom to 31 hitpoints
 game never sees the 32 hitpoints. You then have to either stomp on him 3 times or hit him
 31 more times to cause the upside down orb overkill.
 
-# [Boss firekills [warpless] (teex)](#boss-firekills-warpless-teex)
-
-[src](https://docs.google.com/spreadsheets/d/1sTi9g2cxaNCVkCTQ-Ez4mKshAD7zTKG3uK1pb1ys6oc/edit#gid=0)
-
-# [Boss pattern (TheHaxor)](#boss-pattern-thehaxor)
-
-I made a video explaining how boss patterns are determined in general and a
-couple videos for the common W4 and W5 fire kills in warpless since I've had
-some people asking me about it recently and there doesn't seem to be a great
-resource that exists to my knowledge. I pretty much had to learn how to do
-them from other people's VODs.
-
-Boss pattern introduction: <https://www.twitch.tv/videos/313176738>  
-Common World 4 warpless fire kills: <https://www.twitch.tv/videos/313176739>  
-Common World 5 warpless fire kills: <https://www.twitch.tv/videos/313176740>  
-
 # [Bowser frame hops (or4ng33xp0)](#bowser-frame-hops-or4ng33xp0)
 
 It takes 32 frames for Bowser to jump and fall back to the floor, where he spends another 16 frames before hopping again. After 5 hops, you just need the Timer3 value to not be 0 so that he'll do another "wait 16 frames, then hop".
@@ -174,6 +158,32 @@ I did some manual memory editing on the TAS, and a value of 198 (0xC6) was still
 to Bowser being in the air from a little hop when Timer3 hit 0.
 
 # [Early hammer (or4ng33xp0)](#early-hammer-or4ng33xp0-src) [src]({{ site.baseurl }}{% link pages/early-hammer.md %})
+
+# [Firekill patterns [warpless] (teex)](#firekill-patterns-warpless-teex)
+
+I (teex) made a playlist of pretty much all the boss patterns you'll typically encounter in Warpless. 
+
+Each clip is comprised of:
+- the firekill
+- the pattern by itself (simply watching the boss's opening moves for recognition purposes
+- screenshots & footage of any manipulations or conditional setups wherever applicable
+
+[youtube playlist](https://www.youtube.com/playlist?list=PLjSZGQNren-IWJHjf6HQev-PE7bdYW4LE)
+
+[doc](https://docs.google.com/spreadsheets/d/1sTi9g2cxaNCVkCTQ-Ez4mKshAD7zTKG3uK1pb1ys6oc/edit#gid=0)
+
+# [Firekill patterns (TheHaxor)](#firekill-patterns-thehaxor)
+
+I made a video explaining how boss patterns are determined in general and a
+couple videos for the common W4 and W5 fire kills in warpless since I've had
+some people asking me about it recently and there doesn't seem to be a great
+resource that exists to my knowledge. I pretty much had to learn how to do
+them from other people's VODs.
+
+Boss pattern introduction: <https://www.twitch.tv/videos/313176738>  
+Common World 4 warpless fire kills: <https://www.twitch.tv/videos/313176739>  
+Common World 5 warpless fire kills: <https://www.twitch.tv/videos/313176740>  
+
 
 # [Firekill savestates (yatokami9)](#firekill-savestates-yatokami9)
 
