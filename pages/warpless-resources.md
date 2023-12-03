@@ -15,6 +15,8 @@ Mitch is currently working on putting together and in-depth talk of different st
 
 ### [smb3 any% warpless tutorial by KoBrahJer](https://youtube.com/playlist?list=PLWQf4Jey8Oj4funR49Zw3AHKnJ1FmtDEQ)
 
+### [N-spade warpless route]({{ site.baseurl }}/{% link pages/warpless-nspade.md %})
+
 ### [SMB3 Warpless Strategy Revolving Around New W5 Routing by Feloliyaya]({{ site.baseurl }}/{% link pages/warpless-51pwing-felo.md %})
 
 ### [Kirua beginner guide for new Warpless runners]({{ site.baseurl }}/{% link pages/warpless-beginner-route-kirua.md %})
