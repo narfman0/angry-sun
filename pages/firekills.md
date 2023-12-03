@@ -39,22 +39,22 @@ Common World 5 warpless fire kills: <https://www.twitch.tv/videos/313176740>
 
 Intended for everdrive n8 pro!
 
-0. standard W1
-1.  Hundo W2
-2. mov 1.5 W2
-3. Wendy
-4. W4 mov2
-5. W5 mov1
-6. Ignore, its an impossible W5 pattern
-7. hundo W5
-8. W2 OSWG practice
-9. W6 subpixel manip practice
-10. W5 OSWG practice
-11. W6 Fire kill
-12. Hundo W7
-13. Warpless W7 (boxing with one inventory movement after fort)
-14. Duck clip practice 7-1
-15. Hundo W4
+* 0. standard W1
+* 1.  Hundo W2
+* 2. mov 1.5 W2
+* 3. Wendy
+* 4. W4 mov2
+* 5. W5 mov1
+* 6. Ignore, its an impossible W5 pattern
+* 7. hundo W5
+* 8. W2 OSWG practice
+* 9. W6 subpixel manip practice
+* 10. W5 OSWG practice
+* 11. W6 Fire kill
+* 12. Hundo W7
+* 13. Warpless W7 (boxing with one inventory movement after fort)
+* 14. Duck clip practice 7-1
+* 15. Hundo W4
 
 [Download zip]({{ site.baseurl }}/assets/notes/firekill_savestates.zip)
 
@@ -69,20 +69,20 @@ and extract the savestates in the nestopia save dir.
 
 `smb3_firekill_practice`
 
-1. Larry post 1-6 bro fight
-2. Morton movement of 1
-3. Wendy
-4. Iggy movement of 0
-5. Morton movement of 2
-6. Roy shoot first pattern
-7. Roy movement of 1 pattern
-9. Iggy movement of 2
+* 1. Larry post 1-6 bro fight
+* 2. Morton movement of 1
+* 3. Wendy
+* 4. Iggy movement of 0
+* 5. Morton movement of 2
+* 6. Roy shoot first pattern
+* 7. Roy movement of 1 pattern
+* 9. Iggy movement of 2
 
 `smb3_firekill_practice2`
 
-1. Larry pre 1-6 bro fight
-2. Lemmy
-5. Iggy movement of 1
+* 1. Larry pre 1-6 bro fight
+* 2. Lemmy
+* 5. Iggy movement of 1
 
 # [Lemmy fire kill (Horsedad / ilm)](#lemmy-fire-kill-horsedad--ilm)
 
