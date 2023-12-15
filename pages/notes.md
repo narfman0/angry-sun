@@ -289,7 +289,15 @@ simulated w3 rng 1 million times up to before clouding 3-6 and this is what i go
 
 # [Simulated w6 RNG (lui)](#simulated-w6-rng-lui-src) [src](https://discord.com/channels/747566475753029643/824185359284830219/1175107655283511318)
 
-got 61.4% chance of skipping star bro in w6 also
+61.4% chance of skipping star bro
+
+warpless, over 1 million simulations, runs with at least a movement of x+:
+* 4+: 39.9%
+* 5+: 20.3%
+* 6+: 11.8%
+* 7+: 8.1%
+* 8+: 7.3%
+* 9+: 5.4%
 
 # [SMB3 RTA Wiki](#smb3-rta-wiki)
 
