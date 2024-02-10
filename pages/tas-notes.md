@@ -84,21 +84,27 @@ With Racoon/Tanooki Mario, the 256 timer works differently. Here it is not reset
 The various top speeds you can have in SMB3. The number is how many subpixels you move/frame. 16 subpixels make up a whole pixel.
 
 | Max Speed | Condition |
-| 8  | Being pushed by the wall in an autoscroller. |
-| 11 | Walking uphill. |
-| 16 | Scrolling through walls/slow swim with Frog. |
-| 20 | Running uphill. |
+| 5 | Walking uphill underwater, steep slope. |
+| 6 | Walking uphill underwater, normal slope. |
+| 8  | Being pushed by the wall in an autoscroller. Walking underwater. |
+| 10 | Walking uphill, steep slope. Walking downhill underwater, normal slope. |
+| 11 | Walking uphill, normal slope. Walking downhill underwater, steep slope. |
+| 16 | Scrolling through walls. Slow swim with Frog. |
+| 19 | Running uphill, steep slope. |
+| 20 | Running uphill, normal slope. |
 | 22 | Attached by Micro Goomba. |
 | 23 | Flying. When you start flying, you may have more speed, but the speed will eventually drop down to 23. |
 | 24 | Walking/swimming. |
-| 27 | Walking downhill |
+| 26 | Walking downhill, normal slope. |
+| 27 | Walking downhill, steep slope. |
 | 32 | Fast swim with Frog. |
-| 40 | Running. |
+| 40 | Running, no P-speed. |
 | 41 | Jumping with Frog Suit, you can accelerate from 39 to 41 speed units/frame with the frog. |
-| 43 | Running downhill |
+| 42 | Running downhill, normal slope. |
+| 43 | Running downhill, steep slope. |
 | 48 | Speed of Mario's fireballs |
 | 56 | P-Speed |
 | 57 | P-speed with Frog Suit, you can accelerate from 55 to 57 speed units/frame with the frog. |
-| 59 | P-speed downhill. |
-| 63 | Sliding downhill. |
-| 64 | Boosted by spinner. |
+| 58 | P-speed downhill, normal slope. |
+| 59 | P-speed downhill, steep slope. |
+| 64 | Sliding downhill. Boosted by spinner. |
