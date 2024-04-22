@@ -24,6 +24,10 @@ entered manually and won't disappear if beaten or exited. Updated the speed
 viewer as well to take slope/conveyor speed boosts into account, thanks to
 tompa.
   - [patch link]({{ site.baseurl }}/assets/patches/smb3practice_20230108.zip)
+  
+- Lui made a clips practice rom that shows interesting
+memory values instead of score and timer. It is more detailed for clips
+  - [patch link]({{ site.baseurl }}/assets/patches/smb3clips.bps)
 
 - Someone (lui/czikubi?) made a 7-1 practice rom that shows the interesting
 memory values instead of score. This recent version includes a patch from noswear
