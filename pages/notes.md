@@ -157,6 +157,27 @@ of "Jump Delay" = 202.
 I did some manual memory editing on the TAS, and a value of 198 (0xC6) was still good enough, due
 to Bowser being in the air from a little hop when Timer3 hit 0.
 
+# [Buffer airships](#buffer-airships)
+
+Frame perfect normal map moves are 17 frames (often 18+ if we aren't frame
+perfect), while buffered map moves are 16. At the end of worlds 4 and 6,
+we can carry buffered map movements to the next world.
+
+Before we enter w4 and w6 airships, the screen scrolls. We can hold direction
+presses to buffered move onto the castle. Continue holding the direction and
+enter the airship. This keeps the buffered move bit to the enxt world.
+
+After we beat the airship and enter the next overworld, we can hold the
+direction we want to go and get buffered map movements for free.
+
+E.g. in world 4, hold left as the screen starts scrolling left.
+Continue holding left and press a to enter castle. Then, before mario
+appears on the w5 overworld map, hold up to buffered move to 5-1.
+
+E.g. in world 6, as the screen starts scrolling right, hold right.
+Continue holding right and press a to enter the castle. Then, before mario
+appears on the w7 overworld map, hold down to buffered move to 7-1.
+
 # [Early hammer (or4ng33xp0)](#early-hammer-or4ng33xp0-src) [src]({{ site.baseurl }}{% link pages/early-hammer.md %})
 
 # [Firekills](#firekills)
